@@ -1,0 +1,2363 @@
+OBJECTID,Site Name,Technology Type,Installed Capacity (MWelec),Development Status
+337,Great Glen Scheme,Large Hydro,36,Operational
+338,Glendoe Hydro Scheme,Large Hydro,100,Operational
+340,Fasnakyle Hydro Extension,Large Hydro,7.5,Operational
+341,Kinlochleven Hydro Power Station,Large Hydro,19.5,Operational
+342,Gaur,Large Hydro,6.4,Operational
+343,Pitlochry,Large Hydro,15,Operational
+344,Loch Gair,Large Hydro,6,Operational
+345,Sron Mor,Large Hydro,5,Operational
+346,Striven,Large Hydro,8,Operational
+347,Aigas,Large Hydro,20,Operational
+348,Kilmorack,Large Hydro,20,Operational
+349,Orrin,Large Hydro,18,Operational
+350,Tor Achilty,Large Hydro,15,Operational
+351,Ceannacroc,Large Hydro,20,Operational
+352,Foyers Falls,Large Hydro,5.2,Operational
+353,Invergarry,Large Hydro,20,Operational
+354,Livishie,Large Hydro,15,Operational
+355,Cassley,Large Hydro,10,Operational
+356,Cashlie,Large Hydro,11,Operational
+358,Loch Eilde Mor Hydro (Kinlochleven extension),Small Hydro,2,Operational
+361,Beeston Weir Hydro Scheme,Small Hydro,1.7,Operational
+362,Llyn Brianne Dam,Small Hydro,4.4,Operational
+363,Elan Valley Hydro Scheme,Small Hydro,2.9,Operational
+364,Turret water treatment works,Small Hydro,1.9,Operational
+366,Inverfarigaig,Small Hydro,4,Operational
+367,Kingairloch,Small Hydro,3.5,Operational
+368,Douglas Water Hydro,Small Hydro,3,Operational
+369,Inverlael Hydro,Small Hydro,2.5,Operational
+370,River E Hydro Scheme,Small Hydro,3,Operational
+371,Innerhadden Burn Hydro,Small Hydro,1.4,Operational
+375,Cuileig Hydro Scheme,Small Hydro,3.3,Operational
+376,Garrogie Hydro Scheme,Small Hydro,2,Operational
+378,Inver Hydro,Small Hydro,2,Operational
+379,Loch An Laoigh Hydro,Small Hydro,1,Operational
+383,Leacann Hydro,Small Hydro,1,Operational
+385,Uisge Dubh Hydro,Small Hydro,2,Operational
+386,Ederline Hydro,Small Hydro,1.9,Operational
+388,River Lochy Hydro,Small Hydro,2,Operational
+389,River Taodail Hydro,Small Hydro,1.4,Operational
+391,Donich Water Hydro,Small Hydro,1.4,Operational
+393,Glen Fyne 'Merk' Hydro,Small Hydro,1,Operational
+394,Beinn Eagagach Hydro,Small Hydro,1.1,Operational
+395,Allt Garbh hydro,Small Hydro,1.5,Operational
+398,Carnoch Hydro,Small Hydro,1.4,Operational
+399,Kilmelfort,Small Hydro,2,Operational
+400,Dalchonzie,Small Hydro,4,Operational
+401,Lednock,Small Hydro,3,Operational
+402,Lubreoch,Small Hydro,4,Operational
+403,Loch Ericht,Small Hydro,2.2,Operational
+404,Lussa,Small Hydro,2.4,Operational
+405,Mullardoch Tunnel,Small Hydro,2.4,Operational
+406,Achanalt,Small Hydro,3,Operational
+407,Mucomir,Small Hydro,2,Operational
+408,Lairg,Small Hydro,3.5,Operational
+409,Cuaich,Small Hydro,2.5,Operational
+410,Innerwick Hydro,Small Hydro,1,Operational
+411,Allt Fionn - resubmission,Small Hydro,2.1,Operational
+412,Derrydarroch,Small Hydro,1.9,Operational
+413,Cia Aig Hydro,Small Hydro,3,Operational
+414,Ardtalnaig Hydro Scheme,Small Hydro,2,Operational
+415,Invervar Hydro ,Small Hydro,1.2,Operational
+416,Bruar Hydro Scheme,Small Hydro,1.9,Operational
+417,Garbhaig Hydro Scheme,Small Hydro,2,Operational
+418,Chonais Hydro,Small Hydro,2,Operational
+419,Ardtornish Estate-Upgrade to existing,Small Hydro,1.5,Operational
+421,Maldie Burn,Small Hydro,4,Operational
+422,Black Rock,Small Hydro,3.5,Operational
+424,Ben Glas,Small Hydro,1.3,Operational
+425,Allt Ladaidh Hydro,Small Hydro,1.3,Operational
+426,Allt na Moine,Small Hydro,2,Under Construction
+428,Badachro hydro scheme ,Small Hydro,1.5,Operational
+429,Chaorach Hydro,Small Hydro,2,Operational
+430,Grudie,Small Hydro,2,Operational
+431,Langwell Estate hydro scheme,Small Hydro,1.2,Operational
+432,Ghuilbinn Hydro Scheme,Small Hydro,2,Operational
+433,Nevis Range,Small Hydro,1.1,Operational
+435,Abhainn Gleann Nam Fiadh,Small Hydro,2,Operational
+437,Allt Cheanna Mhuir Hydro,Small Hydro,1.3,Operational
+438,Braevallich,Small Hydro,2.2,Operational
+439,Keltneyburn Hydro,Small Hydro,2,Operational
+891,Fen Farm Solar Park,Solar Photovoltaics,1,Operational
+892,Manor Farm,Solar Photovoltaics,4.7,Operational
+893,Nanterrow Farm,Solar Photovoltaics,4.7,Operational
+894,Howton Farm,Solar Photovoltaics,4.4,Operational
+895,East Langford Farm,Solar Photovoltaics,5,Operational
+896,Trevemper solar farm,Solar Photovoltaics,1.7,Operational
+897,Chester Energy (East Woolley Farm),Solar Photovoltaics,5,Operational
+899,Chynoweth Farm,Solar Photovoltaics,2.9,Operational
+900,Carlton Farm Solar farm,Solar Photovoltaics,5,Operational
+901,Wheal Jane,Solar Photovoltaics,1.4,Operational
+902,Cantelupe Solar Farm,Solar Photovoltaics,5,Operational
+903,Benbole Farm,Solar Photovoltaics,2,Operational
+907,Langage Solar Farm,Solar Photovoltaics,5,Operational
+908,Grange Solar Farm,Solar Photovoltaics,4.6,Operational
+909,Ebbsfleet Farm Solar Farm,Solar Photovoltaics,4.9,Operational
+910,Westcott Venture Park Phase 2 & 3,Solar Photovoltaics,1.3,Operational
+914,Summerway Drove,Solar Photovoltaics,2,Operational
+915,Puriton Solar Farm,Solar Photovoltaics,4.6,Operational
+916,Toyota Solar Farm,Solar Photovoltaics,4.6,Operational
+917,Long Sutton Butterfly And Wildlife Park,Solar Photovoltaics,1.7,Operational
+918,Long Sutton Butterfly And Wildlife Park (extension),Solar Photovoltaics,1,Operational
+921,Springhill Solar Park (Northwick),Solar Photovoltaics,5,Operational
+922,Westmill Farm - PV,Solar Photovoltaics,5,Operational
+923,Rhosygilwen Solar Farm,Solar Photovoltaics,1,Operational
+924,Llancayo Solar Farm,Solar Photovoltaics,3.9,Operational
+926,Shacks Barn Solar Farm,Solar Photovoltaics,5,Operational
+927,Carines Farm Solar Array,Solar Photovoltaics,1,Operational
+928,Trigon Solar Farm,Solar Photovoltaics,7,Operational
+930,Chittering Solar Farm Extension,Solar Photovoltaics,6.3,Operational
+932,Tredinnick Fields,Solar Photovoltaics,5.8,Operational
+933,Summercourt Solar Farm (Glebe Farm),Solar Photovoltaics,1.1,Operational
+935,Higher Trevartha Farm,Solar Photovoltaics,3,Operational
+938,Beechgrove Farm,Solar Photovoltaics,4,Operational
+942,PARK WOOD SOLAR FARM,Solar Photovoltaics,5,Operational
+944,Promens Solar,Solar Photovoltaics,1.7,Operational
+945,Malmesbury Solar,Solar Photovoltaics,5,Operational
+946,Trefullock Solar Farm,Solar Photovoltaics,5,Operational
+947,Lower Coombe Farm Solar,Solar Photovoltaics,1,Operational
+948,Durrants Farm Solar,Solar Photovoltaics,4.5,Operational
+950,Dunsfold Park Solar Farm,Solar Photovoltaics,2,Operational
+951,Alan Bartlett & Sons Solar,Solar Photovoltaics,1.2,Operational
+952,Tavells Lane Solar Farm,Solar Photovoltaics,5.3,Operational
+953,LITTLE TREVEASE SOLAR PARK,Solar Photovoltaics,5.3,Operational
+954,Cobbs Cross Solar Park,Solar Photovoltaics,5,Operational
+955,NOTTINGTON LANE SOLAR FARM,Solar Photovoltaics,5,Operational
+956,RUDGE FARM SOLAR FARM,Solar Photovoltaics,7,Operational
+959,CRINACOTT SOLAR FARM (Pyworthy),Solar Photovoltaics,6.7,Operational
+960,Chawton Farm Solar Farm,Solar Photovoltaics,3.2,Operational
+961,VENTNOR ROAD SOLAR PARK,Solar Photovoltaics,4.8,Operational
+962,ROOKERY FARM SOLAR FARM,Solar Photovoltaics,5.3,Operational
+963,Little White Alice Solar Park,Solar Photovoltaics,1.3,Operational
+964,Park Wall Solar Park,Solar Photovoltaics,5,Operational
+965,Hall Farm Solar park,Solar Photovoltaics,15,Operational
+968,Oulton Airfield Solar Farm (Phase 1),Solar Photovoltaics,5,Operational
+971,Chalcroft Solar Park,Solar Photovoltaics,6.3,Operational
+972,Bradford Solar Park,Solar Photovoltaics,5.3,Operational
+974,Lower Coombe Farm (Bean Field),Solar Photovoltaics,1,Operational
+975,Ffos Las Racecourse,Solar Photovoltaics,5.5,Operational
+977,Woodforde Farm,Solar Photovoltaics,9,Operational
+979,Kingston Farm,Solar Photovoltaics,5,Operational
+980,Spriggs Farm,Solar Photovoltaics,12,Operational
+983,Rotherdale Farm,Solar Photovoltaics,5,Operational
+985,Turves Solar Farm ,Solar Photovoltaics,5,Operational
+987,Rexton Cross,Solar Photovoltaics,2,Operational
+990,Hatchlands Farm,Solar Photovoltaics,5.2,Operational
+993,Land At Potash Farm,Solar Photovoltaics,7,Operational
+996,Land at Upper Clayhill Farm,Solar Photovoltaics,4.9,Operational
+997,Towerbrook Farm (Banwell Solar Farm),Solar Photovoltaics,7.2,Operational
+1000,Twin Elm Solar Farm,Solar Photovoltaics,1,Operational
+1009,Hardingham Solar Farm,Solar Photovoltaics,14.8,Operational
+1011,Hollamoor Farm (PV),Solar Photovoltaics,2,Operational
+1012,Langlands Solar Farm,Solar Photovoltaics,2.1,Operational
+1013,Langunnett Solar Farm,Solar Photovoltaics,6.2,Operational
+1015,Manston Solar Farm,Solar Photovoltaics,9.9,Operational
+1016,Marsh House Solar Park,Solar Photovoltaics,5.5,Operational
+1018,Morrisons roof mounted solar,Solar Photovoltaics,2,Operational
+1020,Rickfield Farm solar park,Solar Photovoltaics,1,Operational
+1023,Tump Solar Farm,Solar Photovoltaics,5,Operational
+1024,West Farm (Solar),Solar Photovoltaics,7.7,Operational
+1027,Owls Lodge Farm,Solar Photovoltaics,5,Operational
+1029,Beckley Solar Farm,Solar Photovoltaics,1.7,Operational
+1032,Oakham Farm,Solar Photovoltaics,8,Operational
+1033,Limberlost Farm,Solar Photovoltaics,1.5,Operational
+1034,Office Field,Solar Photovoltaics,7.2,Operational
+1035,Sandys Moor Road,Solar Photovoltaics,2.9,Operational
+1036,Skylark Meadow Solar park,Solar Photovoltaics,5,Operational
+1038,Aldi Distribution Centre - Darlington,Solar Photovoltaics,1.2,Operational
+1039,Bishops Sutton,Solar Photovoltaics,12,Operational
+1040,Blackawton Solar Farm,Solar Photovoltaics,3,Operational
+1041,BMW UK Manufacturing Ltd,Solar Photovoltaics,3,Operational
+1042,Land to the East of Burton Lane,Solar Photovoltaics,2.6,Operational
+1045,Land west of Hawkspur Green (Hill Hall Solar),Solar Photovoltaics,4.9,Operational
+1046,Kingspan Insulation Solar Installation,Solar Photovoltaics,5,Operational
+1047,Langley Hall Farm,Solar Photovoltaics,2.4,Operational
+1048,Pond Farm,Solar Photovoltaics,3.6,Operational
+1049,Nether Mill Farm ,Solar Photovoltaics,3.1,Operational
+1050,NEWNTON DAIRY FARM,Solar Photovoltaics,7.2,Operational
+1051,Pierces Farm,Solar Photovoltaics,1.7,Operational
+1052,Rew Farm Solar Farm,Solar Photovoltaics,6.1,Operational
+1057,Westbury (Closed) Landfill Site,Solar Photovoltaics,3.5,Operational
+1058,Wiggin Hill Solar Farm - Phase 2,Solar Photovoltaics,4.1,Operational
+1060,Grain Harvesters Ltd,Solar Photovoltaics,1,Operational
+1062,Hyde Farm,Solar Photovoltaics,10.8,Operational
+1064,St Francis Farm,Solar Photovoltaics,4,Operational
+1065,Bishop’s Waltham Solar Farm,Solar Photovoltaics,12,Operational
+1067,Nova Scotia Farm solar park,Solar Photovoltaics,13.9,Operational
+1068,"Hall Farm, East Beckham",Solar Photovoltaics,10.2,Operational
+1069,Cefn Betingau Farm,Solar Photovoltaics,9,Operational
+1070,Hill Farm Solar Park (VoWH),Solar Photovoltaics,14.8,Operational
+1071,Wix Lodge,Solar Photovoltaics,18.7,Operational
+1072,Saxley Farm,Solar Photovoltaics,5,Operational
+1074,Snarlton Farm (Melksham solar farm),Solar Photovoltaics,49.6,Operational
+1076,Lackford Estate Solar Park,Solar Photovoltaics,20.9,Operational
+1077,Colpmans Farm,Solar Photovoltaics,5,Operational
+1078,Porvair International Ltd,Solar Photovoltaics,1.8,Operational
+1079,Willsland Solar farm,Solar Photovoltaics,3.2,Operational
+1080,Frying Down Copse Solar Farm,Solar Photovoltaics,5,Operational
+1081,Wilmingham Lane Solar Farm,Solar Photovoltaics,7,Operational
+1082,Chilton Cantelo Solar Farm,Solar Photovoltaics,5,Operational
+1084,Beaford Brook Solar Park,Solar Photovoltaics,5.2,Operational
+1086,Hayford Farm,Solar Photovoltaics,8.9,Operational
+1087,Halse Farm,Solar Photovoltaics,8.2,Operational
+1089,STRETE FARM SOLAR FARM,Solar Photovoltaics,4.8,Operational
+1090,Tregassow Farm - Solar Modules,Solar Photovoltaics,6,Operational
+1092,Higher Hatherleigh Solar Farm extension,Solar Photovoltaics,1.5,Operational
+1093,Pont Andrew Solar Farm,Solar Photovoltaics,1.5,Operational
+1095,Cairnhill Farm solar park,Solar Photovoltaics,2.4,Operational
+1096,Manston Solar Farm extension (Westwood),Solar Photovoltaics,9.2,Operational
+1098,Newlands Farm Solar ,Solar Photovoltaics,20.5,Operational
+1099,Fen Road,Solar Photovoltaics,1.4,Operational
+1102,Long Meadow Farm,Solar Photovoltaics,4.1,Operational
+1106,Liverton Farm,Solar Photovoltaics,4.8,Operational
+1108,Home Farm (Knowlton - solar),Solar Photovoltaics,11.5,Operational
+1109,Lake Farm,Solar Photovoltaics,5,Operational
+1110,Parkhouse Corner (Orta Solar),Solar Photovoltaics,6.6,Operational
+1111,Sandhill Solar Park,Solar Photovoltaics,2,Operational
+1112,Mingay Farm,Solar Photovoltaics,5,Operational
+1113,Jordanston Solar Farm,Solar Photovoltaics,5,Operational
+1115,Aldi Distribution Centre - Neston,Solar Photovoltaics,1.2,Operational
+1116,Rodbourne Rail Farm - Solar Park,Solar Photovoltaics,7.6,Operational
+1119,Barnby Moor,Solar Photovoltaics,4,Operational
+1120,Knockworthy Farm,Solar Photovoltaics,3.5,Operational
+1122,Raglington Farm,Solar Photovoltaics,5.8,Operational
+1125,Stables Farm,Solar Photovoltaics,1.5,Operational
+1126,Luson Farm,Solar Photovoltaics,1.9,Operational
+1129,Kellygreen Farm,Solar Photovoltaics,4,Operational
+1130,Grove Farm (solar),Solar Photovoltaics,3.5,Operational
+1133,Marston Solar Farm,Solar Photovoltaics,4.9,Operational
+1135,Tredown Solar Farm,Solar Photovoltaics,1.2,Operational
+1139,Slaughtergate Farm,Solar Photovoltaics,1.8,Operational
+1141,Kia Ora Farm,Solar Photovoltaics,1.8,Operational
+1142,Ellicombe Farm,Solar Photovoltaics,1.4,Operational
+1143,Southcombe Farm,Solar Photovoltaics,1.2,Operational
+1145,West Bradley Farm,Solar Photovoltaics,1.5,Operational
+1146,Whiddon Farm,Solar Photovoltaics,1,Operational
+1147,Lovedean Farm,Solar Photovoltaics,4.5,Operational
+1148,Higher Knapp Farm,Solar Photovoltaics,1.5,Operational
+1150,Park Farm,Solar Photovoltaics,4,Operational
+1151,Dunkeswell Airfield,Solar Photovoltaics,2,Operational
+1158,Langenhoe Solar Farm,Solar Photovoltaics,21.3,Operational
+1159,Kentishes Solar Farm ,Solar Photovoltaics,5,Operational
+1160,Marley Thatch Solar Farm,Solar Photovoltaics,6.3,Operational
+1161,Newlands Farm (East Devon),Solar Photovoltaics,5,Operational
+1165,Goldthorpe,Solar Photovoltaics,1.5,Operational
+1166,Barley Wood Farm Lane,Solar Photovoltaics,5.4,Operational
+1167,Battens Farm Solar Park,Solar Photovoltaics,11,Operational
+1168,Combermere Abbey,Solar Photovoltaics,14,Operational
+1169,Foxburrow Farm,Solar Photovoltaics,8,Operational
+1170,Great Houndbeare Farm,Solar Photovoltaics,10,Operational
+1171,Condover (Green Farm),Solar Photovoltaics,10.2,Operational
+1174,Hurst Farm,Solar Photovoltaics,5,Operational
+1175,Ikea Distribution Centre ,Solar Photovoltaics,1.7,Operational
+1176,Jaguar Land Rover ,Solar Photovoltaics,5.8,Operational
+1177,Leverton Ings,Solar Photovoltaics,12,Operational
+1178,Little Morton Solar Farm,Solar Photovoltaics,14.3,Operational
+1179,Lodge Farm - Orston,Solar Photovoltaics,12.4,Operational
+1180,Lowther Farms,Solar Photovoltaics,1.8,Operational
+1181,Mackies Dairy PV,Solar Photovoltaics,1.8,Operational
+1182,Mingay Farm - extension,Solar Photovoltaics,19.3,Operational
+1183,Redcourt Farm,Solar Photovoltaics,3.3,Operational
+1185,Sowerby Lodge Farm,Solar Photovoltaics,5,Operational
+1186,Stone Hill,Solar Photovoltaics,2.6,Operational
+1187,Taunton Racecourse,Solar Photovoltaics,1.5,Operational
+1188,The Stables,Solar Photovoltaics,1.8,Operational
+1190,Vantage Point,Solar Photovoltaics,1.4,Operational
+1191,Wilsom Farm,Solar Photovoltaics,11,Operational
+1192,Woodlands Farm Solar Park,Solar Photovoltaics,10,Operational
+1194,Bowerhouse Farm,Solar Photovoltaics,8.3,Operational
+1195,Brickyard Barn ,Solar Photovoltaics,4.1,Operational
+1196,Bronwylfa Reservoir,Solar Photovoltaics,3,Operational
+1197,Land At Court Farm,Solar Photovoltaics,2.2,Operational
+1198,Crapnell Farm Solar Farm,Solar Photovoltaics,5.4,Operational
+1199,Danes Farm - extension,Solar Photovoltaics,10.5,Operational
+1200,Ellough Airfield (Resubmission),Solar Photovoltaics,13.2,Operational
+1201,Ermine Street Farm solar park,Solar Photovoltaics,32.5,Operational
+1202,Eynsham Solar Farm,Solar Photovoltaics,13.2,Operational
+1204,Ford Farm (Ashurst),Solar Photovoltaics,10,Operational
+1205,Priors Byne Farm,Solar Photovoltaics,7.6,Operational
+1206,Scottow Moor - RAF Coltishall Solar Farm (Phase 1),Solar Photovoltaics,32,Operational
+1207,Owls Lodge Farm Extension,Solar Photovoltaics,5,Operational
+1209,Hawksland Solar,Solar Photovoltaics,3.1,Operational
+1210,Middle Treworder Farm,Solar Photovoltaics,5,Operational
+1211,Black Bush Farm,Solar Photovoltaics,2.7,Operational
+1212,Goonhilly Downs - PV,Solar Photovoltaics,4.5,Operational
+1213,Higher Tregarne Solar Farm,Solar Photovoltaics,5,Operational
+1214,Causilgey Solar Farm,Solar Photovoltaics,5,Operational
+1215,Ninnis Farm Solar,Solar Photovoltaics,5,Operational
+1216,Trelow Farm,Solar Photovoltaics,1.6,Operational
+1217,Hewas Solar Farm,Solar Photovoltaics,5,Operational
+1218,Great Knowle Farm Solar,Solar Photovoltaics,3,Operational
+1219,Airfield Farm PV,Solar Photovoltaics,5,Operational
+1220,Lower Bodiniel Farm,Solar Photovoltaics,5,Operational
+1221,Shelswell Park Solar Farm,Solar Photovoltaics,5,Operational
+1222,Chittering Solar Farm,Solar Photovoltaics,5,Operational
+1223,Kernow Solar Farm,Solar Photovoltaics,5,Operational
+1224,Limes Farm Solar Farm,Solar Photovoltaics,4.6,Operational
+1226,Bratton Fleming Solar Farm,Solar Photovoltaics,5,Operational
+1227,Lee Farm,Solar Photovoltaics,5,Operational
+1228,Woodlands Barton Solar Farm,Solar Photovoltaics,4.9,Operational
+1229,Winsdon Farm,Solar Photovoltaics,5,Operational
+1230,The Manor of Cadland Estate,Solar Photovoltaics,5,Operational
+1231,Trenouth Farm,Solar Photovoltaics,3.6,Operational
+1232,Callington Solar Farm,Solar Photovoltaics,6.4,Operational
+1234,St Columb Major Solar Farm,Solar Photovoltaics,7,Operational
+1235,Crossways Pit Solar Farm,Solar Photovoltaics,5,Operational
+1237,Ayshford Court Farm,Solar Photovoltaics,5,Operational
+1238,Andover Solar Farm,Solar Photovoltaics,5,Operational
+1239,Oving Solar Farm,Solar Photovoltaics,5,Operational
+1240,Grange Farm (Cornwall),Solar Photovoltaics,5,Operational
+1241,Shipton Bellinger - Park House Corner Solar Farm,Solar Photovoltaics,5.4,Operational
+1242,Wyld Meadow Solar Farm,Solar Photovoltaics,4.8,Operational
+1243,Shooters Bottom Solar Park,Solar Photovoltaics,7,Operational
+1244,Goldenhaye Field Solar Farm,Solar Photovoltaics,2,Operational
+1245,Clearwell Farm - solar,Solar Photovoltaics,2,Operational
+1246,Danes Farm,Solar Photovoltaics,3.3,Operational
+1248,Langstone Court Road Solar Farm,Solar Photovoltaics,2.5,Operational
+1249,Five Oaks Solar Farm,Solar Photovoltaics,5,Operational
+1250,Culworth House Solar Farm,Solar Photovoltaics,3,Operational
+1251,Warleigh Barton Solar Farm,Solar Photovoltaics,5,Operational
+1252,Trenoweth Solar Farm,Solar Photovoltaics,2.5,Operational
+1253,Wymeswold Airfield,Solar Photovoltaics,34,Operational
+1254,Higher Hatherleigh Solar Farm,Solar Photovoltaics,3.5,Operational
+1255,Barton Solar Farm,Solar Photovoltaics,1.2,Operational
+1256,Clann Solar Farm,Solar Photovoltaics,1.4,Operational
+1257,Dolmans Hill (Redbridge Farm) Solar Arrays,Solar Photovoltaics,5,Operational
+1258,North Norfolk Business Centre Solar Park,Solar Photovoltaics,11,Operational
+1259,Horsacott Farm Solar Park,Solar Photovoltaics,6.4,Operational
+1260,Broxted Solar Farm (Stradishall Airfield),Solar Photovoltaics,31.6,Operational
+1261,Pentylands Farm,Solar Photovoltaics,19,Operational
+1262,Trefinnick Farm,Solar Photovoltaics,5,Operational
+1263,Four Burrows Solar farm,Solar Photovoltaics,7.2,Operational
+1266,Rudbaxton Solar Park,Solar Photovoltaics,10.8,Operational
+1268,Hope Solar Farm,Solar Photovoltaics,7.3,Operational
+1270,Culmhead Solar Farm ,Solar Photovoltaics,7.5,Operational
+1271,Wheal Alfred Road Solar Farm,Solar Photovoltaics,3.5,Operational
+1272,Blatchworthy Farm,Solar Photovoltaics,1.5,Operational
+1273,Parsonage Barn (extension),Solar Photovoltaics,7.6,Operational
+1274,BIOSSENCE SOLAR PARK,Solar Photovoltaics,4.5,Operational
+1276,HENDRA HOLIDAY PARK SOLAR FARM,Solar Photovoltaics,1.2,Operational
+1277,EASTACOMBE SOLAR FARM,Solar Photovoltaics,3.6,Operational
+1278,Lodge Farm Solar Farm,Solar Photovoltaics,5,Under Construction
+1279,Wrexham Social Housing PV,Solar Photovoltaics,5.4,Operational
+1280,Creathorne Farm  - Solar Farm,Solar Photovoltaics,1.8,Operational
+1282,Higher Pirzwell Solar Farm,Solar Photovoltaics,1.2,Operational
+1283,Broadgate Solar Farm,Solar Photovoltaics,1.1,Operational
+1284,CRAYSMARSH SOLAR FARM,Solar Photovoltaics,1.8,Operational
+1285,SOLAR PARK - WHITCHURCH FARM,Solar Photovoltaics,6.5,Operational
+1287,THE HOLLIES SOLAR PARK - SKEGNESS,Solar Photovoltaics,8.6,Operational
+1288,AMBLESTON SOLAR PANELS,Solar Photovoltaics,6,Operational
+1290,Ford Farm Solar Farm,Solar Photovoltaics,5,Operational
+1292,Canworthy Water,Solar Photovoltaics,41,Operational
+1293,Foxcombe Farm Solar Park,Solar Photovoltaics,5,Operational
+1294,Liddeston Ridge Solar Park (Milford Haven),Solar Photovoltaics,5,Operational
+1295,Bodwen Solar Park,Solar Photovoltaics,5.5,Operational
+1296,Treswarrow Solar Park,Solar Photovoltaics,6.5,Operational
+1297,Carnemough Farm Solar Park,Solar Photovoltaics,7,Operational
+1298,Aller Court Farm Solar Park,Solar Photovoltaics,5,Operational
+1300,Derriton Fields Solar Farm,Solar Photovoltaics,11.8,Operational
+1301,Cleave Farm Solar Park,Solar Photovoltaics,4.7,Operational
+1302,Four Burrows Farm  (Extension 2),Solar Photovoltaics,6.3,Operational
+1303,Chelworth Industrial Estate Solar Park,Solar Photovoltaics,1,Operational
+1304,Drapers Farm Solar Park,Solar Photovoltaics,6,Operational
+1305,Week Farm Solar Park,Solar Photovoltaics,3.3,Operational
+1306,Langton Farm Solar park,Solar Photovoltaics,4.4,Operational
+1307,Says Court Farm solar park,Solar Photovoltaics,19.8,Operational
+1308,Ketton solar farm,Solar Photovoltaics,9,Operational
+1310,The Manor of Cadland Estate - extension,Solar Photovoltaics,3,Operational
+1311,Rowles Farm solar park,Solar Photovoltaics,13,Operational
+1312,Ryston Estate Solar Park,Solar Photovoltaics,4.8,Operational
+1313,Reaches Farm Solar Park,Solar Photovoltaics,6.1,Operational
+1316,Watchfield Lawn,Solar Photovoltaics,10.2,Operational
+1321,Bicker Fen (previously Manor Farm),Solar Photovoltaics,22.6,Operational
+1322,Witches Solar Farm,Solar Photovoltaics,5,Operational
+1324,Burntstalk Solar Park,Solar Photovoltaics,11.5,Operational
+1325,Claypit Moor Solar Farm (Lexham),Solar Photovoltaics,7.9,Operational
+1326,Holton Airfield,Solar Photovoltaics,11,Operational
+1327,Goose Willow Farm,Solar Photovoltaics,11.5,Operational
+1328,Chediston Hall Solar Park,Solar Photovoltaics,12.3,Operational
+1329,Burthy Farm,Solar Photovoltaics,10,Operational
+1330,Caeremlyn Solar Farm,Solar Photovoltaics,18,Operational
+1331,Hazard Farm,Solar Photovoltaics,6.4,Operational
+1332,Home Farm (Merton - solar),Solar Photovoltaics,18.3,Operational
+1334,Rudge Hill Farm,Solar Photovoltaics,1.5,Operational
+1335,Sevor Farm,Solar Photovoltaics,9.3,Operational
+1336,Marsh Farm,Solar Photovoltaics,14,Operational
+1337,Four Burrows Solar farm (Extension 1),Solar Photovoltaics,1.5,Operational
+1338,Old Rides solar Farm,Solar Photovoltaics,8,Operational
+1339,Parabel North Beer Solar Farm,Solar Photovoltaics,6.8,Operational
+1340,Crockers Hele,Solar Photovoltaics,1.3,Operational
+1341,Bentley Motors Ltd 1,Solar Photovoltaics,5.1,Operational
+1342,Northwick Estate (Extension),Solar Photovoltaics,2.2,Operational
+1343,North Of Field Barn,Solar Photovoltaics,1,Operational
+1346,Wroughton Airfield Solar Park,Solar Photovoltaics,41,Operational
+1347,Forest Heath Solar Farm,Solar Photovoltaics,5,Operational
+1348,Abbey Farm,Solar Photovoltaics,9,Operational
+1354,Land at Soho Farm,Solar Photovoltaics,1.5,Operational
+1355,Land South West Of Apollo Business Park,Solar Photovoltaics,1.7,Operational
+1357,Manor Farm (Monmouthshire),Solar Photovoltaics,10.5,Operational
+1358,Land at Mill Farm,Solar Photovoltaics,1,Operational
+1359,Land at East Farm,Solar Photovoltaics,6.8,Operational
+1360,New Rendy Farm,Solar Photovoltaics,4.8,Operational
+1361,Reydon Farm,Solar Photovoltaics,3.9,Operational
+1362,Copley Farm,Solar Photovoltaics,30,Operational
+1363,Ellough Airfield (Ellough 2 extension),Solar Photovoltaics,10,Operational
+1364,Nanteague Farm,Solar Photovoltaics,7.7,Operational
+1365,Grange Farm (Burton Pedwardine),Solar Photovoltaics,15,Operational
+1366,Wheat Leasows Solar Park,Solar Photovoltaics,4,Operational
+1367,Honington Solar Farm,Solar Photovoltaics,13.6,Operational
+1368,Hill Farm Solar Park,Solar Photovoltaics,10.2,Operational
+1371,Homeland Solar Farm,Solar Photovoltaics,13.2,Operational
+1372,East Fairlee,Solar Photovoltaics,7.3,Operational
+1373,Fairwind Farm,Solar Photovoltaics,10,Operational
+1374,Redlands Farm,Solar Photovoltaics,6.2,Operational
+1375,Fenton Home Farm,Solar Photovoltaics,31.3,Operational
+1376,Abbots Ripton Solar Farm,Solar Photovoltaics,24.7,Operational
+1377,South Lees Farm,Solar Photovoltaics,11,Operational
+1378,Southwick Estate,Solar Photovoltaics,48,Operational
+1379,Waterloo solar park,Solar Photovoltaics,14.6,Operational
+1382,Ketton solar farm - phase 2,Solar Photovoltaics,3,Operational
+1384,Oak Cottage,Solar Photovoltaics,4.9,Operational
+1385,Sycamore Farm,Solar Photovoltaics,20,Operational
+1386,North Wayton Farm,Solar Photovoltaics,5,Operational
+1387,South Creake Solar Farm,Solar Photovoltaics,26,Operational
+1389,Pen Y Cae solar farm,Solar Photovoltaics,6.9,Operational
+1391,Rose And Crown Farm,Solar Photovoltaics,30,Operational
+1392,Wickfield Farm,Solar Photovoltaics,5,Operational
+1393,Rookery Farm,Solar Photovoltaics,3.8,Operational
+1395,Seaview Farm,Solar Photovoltaics,1.7,Operational
+1396,Chelveston Airfield - extension,Solar Photovoltaics,3.5,Operational
+1399,Huddlesford Farm,Solar Photovoltaics,1,Operational
+1401,Park Lane,Solar Photovoltaics,1,Operational
+1404,Gypsom Solar Farm,Solar Photovoltaics,5,Operational
+1406,Polmaugan Farm,Solar Photovoltaics,5,Operational
+1408,Land at Gilley's Mill Dam,Solar Photovoltaics,5,Operational
+1409,East Lenham Solar Farm,Solar Photovoltaics,6.6,Operational
+1410,Steventon Solar Park,Solar Photovoltaics,10,Operational
+1411,Westwood Farm Solar Park,Solar Photovoltaics,5.1,Operational
+1412,Meadow Farm solar park,Solar Photovoltaics,6,Operational
+1415,Sutton Mawr Farm,Solar Photovoltaics,7.5,Operational
+1416,Carloggas Farm Solar Park,Solar Photovoltaics,8.3,Operational
+1418,Lincoln Farm,Solar Photovoltaics,11.4,Operational
+1419,Llwyn Du Solar Farm,Solar Photovoltaics,8,Operational
+1420,West Hill Farm (solar),Solar Photovoltaics,7.3,Operational
+1424,Elms Farm,Solar Photovoltaics,29,Operational
+1426,Rock Farm / Goldborough Farm (Rookwood),Solar Photovoltaics,5,Operational
+1427,Great Wilbraham Solar Farm,Solar Photovoltaics,38.1,Operational
+1428,Somerton Door Farm,Solar Photovoltaics,8.7,Operational
+1429,Barugh Farm,Solar Photovoltaics,5,Operational
+1431,Lains Farm,Solar Photovoltaics,5,Operational
+1432,Great Seabrook Farm,Solar Photovoltaics,5,Operational
+1433,Cotgrave solar farm,Solar Photovoltaics,4.9,Operational
+1436,Parkview solar park,Solar Photovoltaics,6.5,Operational
+1437,Overton,Solar Photovoltaics,4,Operational
+1439,Lower Basset Down Farm,Solar Photovoltaics,10.5,Operational
+1441,Morfa Farm,Solar Photovoltaics,2,Operational
+1443,Barton Close Farm,Solar Photovoltaics,5.5,Operational
+1444,Wiggin Hill Solar Farm - Phase 1,Solar Photovoltaics,6.8,Operational
+1451,Wilton Farm (pv),Solar Photovoltaics,9.5,Operational
+1453,Canada Farm,Solar Photovoltaics,8.3,Operational
+1454,Hoback Farm,Solar Photovoltaics,13.1,Operational
+1455,The Rainbows Solar Farm,Solar Photovoltaics,4,Operational
+1457,Salcey Solar Farm,Solar Photovoltaics,5,Operational
+1460,Hillsmoor Solar Farm,Solar Photovoltaics,1.2,Operational
+1461,Desford Solar Farm,Solar Photovoltaics,5,Operational
+1462,Iwood Lane Solar Farm,Solar Photovoltaics,8,Operational
+1464,Playters Solar Farm,Solar Photovoltaics,8.6,Operational
+1465,Bypass Nurseries Solar Farm,Solar Photovoltaics,3.3,Operational
+1466,Warrington Home Solar Scheme,Solar Photovoltaics,5.3,Operational
+1467,Babergh Home Solar Scheme,Solar Photovoltaics,2.8,Operational
+1468,Mid Suffolk Home Solar Scheme,Solar Photovoltaics,4.8,Operational
+1469,Garn Solar Farm,Solar Photovoltaics,7.4,Operational
+1470,Trethosa Farm Solar Park,Solar Photovoltaics,4.8,Operational
+1471,Garvinack Farm Solar Park,Solar Photovoltaics,7,Operational
+1472,Caswell Farm Solar Park,Solar Photovoltaics,6.7,Operational
+1473,Epwell Grounds Farm solar park,Solar Photovoltaics,7,Operational
+1474,Pant-Y-Moch Farm,Solar Photovoltaics,5,Operational
+1476,Woolbridge Solar Park,Solar Photovoltaics,5,Operational
+1477,Tengore Lane ,Solar Photovoltaics,3.6,Operational
+1478,Manor Farm (Dorset),Solar Photovoltaics,5,Operational
+1479,Hadlow Place solar farm,Solar Photovoltaics,14.3,Operational
+1480,Bassingbourn Solar Farm,Solar Photovoltaics,14.4,Operational
+1481,Lower Pennington Farm,Solar Photovoltaics,2.7,Operational
+1482,Goose Willow Farm - extension,Solar Photovoltaics,7,Operational
+1483,Avenue Farm,Solar Photovoltaics,7.3,Operational
+1484,Sywell Road,Solar Photovoltaics,5,Operational
+1486,Gosfield Airfield,Solar Photovoltaics,12.6,Operational
+1487,Exning,Solar Photovoltaics,29.9,Operational
+1488,Grange Farm (Avon),Solar Photovoltaics,21,Operational
+1489,Land at East Farm - extension,Solar Photovoltaics,6,Operational
+1492,Laughton Level,Solar Photovoltaics,7,Operational
+1493,Croydon / Church Farm (Royston),Solar Photovoltaics,16.5,Operational
+1494,Hadley Farm (Orta Membury Solar Farm),Solar Photovoltaics,17,Operational
+1497,Manor Farm (Wiltshire) ,Solar Photovoltaics,6.3,Operational
+1498,Tonge Corner Farm,Solar Photovoltaics,22,Operational
+1499,Oaklands Farm ,Solar Photovoltaics,6.9,Operational
+1500,North East of Ainderby Steeple,Solar Photovoltaics,5.9,Operational
+1503,Errol Estate,Solar Photovoltaics,13,Operational
+1504,Grange Farm,Solar Photovoltaics,6,Operational
+1510,Wraysbury Landfill,Solar Photovoltaics,4.8,Operational
+1512,Wisbridge Farm,Solar Photovoltaics,9.3,Operational
+1514,Caddington Solar Farm (Phase 1),Solar Photovoltaics,3,Operational
+1515,Capeland Farm,Solar Photovoltaics,8.3,Operational
+1516,Castle Combe Circuit,Solar Photovoltaics,12,Operational
+1517,Castle Eaton Farm,Solar Photovoltaics,17.8,Operational
+1518,Chancery Farm (Ardleigh),Solar Photovoltaics,11.9,Operational
+1519,Clapham solar farm,Solar Photovoltaics,7.5,Operational
+1521,Chelveston Airfield,Solar Photovoltaics,16,Operational
+1522,Chisbon Solar Farm (Frowick Lane),Solar Photovoltaics,13,Operational
+1523,Clawdd Ddu PV,Solar Photovoltaics,13.5,Operational
+1524,Congresbury Solar Farm,Solar Photovoltaics,7.1,Operational
+1525,Abergelli Glas Solar Farm,Solar Photovoltaics,7.7,Operational
+1526,Anthony Estate Solar Farm,Solar Photovoltaics,4.7,Operational
+1527,Aston House Solar Farm,Solar Photovoltaics,20,Operational
+1529,Bakers Farm (solar),Solar Photovoltaics,12,Operational
+1530,Balls Wood Solar Farm,Solar Photovoltaics,8.7,Operational
+1531,Barn Farm ,Solar Photovoltaics,4.2,Operational
+1533,Bay Farm,Solar Photovoltaics,8.1,Operational
+1535,Berwick solar farm,Solar Photovoltaics,8.2,Operational
+1536,Bidwell Solar Farm ,Solar Photovoltaics,5,Operational
+1538,Bilsham Farm,Solar Photovoltaics,14.5,Operational
+1540,Blackwell Grange Solar Farm,Solar Photovoltaics,5,Operational
+1541,Blenches Mill,Solar Photovoltaics,6.1,Operational
+1542,Bobbing solar farm,Solar Photovoltaics,11.3,Operational
+1543,Bodmin 2 Solar Farm,Solar Photovoltaics,5.3,Operational
+1544,Bottom Plain,Solar Photovoltaics,10,Operational
+1545,Braydon Manor Farm,Solar Photovoltaics,8.7,Operational
+1546,Brynwhilach Solar Park,Solar Photovoltaics,4,Operational
+1547,Bulls Head Farm North,Solar Photovoltaics,4.7,Operational
+1549,Burrowton Farm,Solar Photovoltaics,5,Operational
+1552,Ebbsfleet Solar Farm,Solar Photovoltaics,5,Operational
+1553,Court Colman solar park,Solar Photovoltaics,15,Operational
+1554,Cowdown Lane,Solar Photovoltaics,40,Operational
+1555,Crannaford Solar Farm,Solar Photovoltaics,12.5,Operational
+1556,Cwmcaesingrug Farm,Solar Photovoltaics,10,Operational
+1558,Decoy Farm House Solar Modules,Solar Photovoltaics,6,Operational
+1561,Hadley Solar Farm,Solar Photovoltaics,6.6,Operational
+1562,Hall Farm Solar Farm (Newbold Verdon),Solar Photovoltaics,5,Operational
+1563,Hammond Court Farm,Solar Photovoltaics,15,Operational
+1565,Hatch Penn Farm PV,Solar Photovoltaics,1,Operational
+1566,Hayford Farm - extension,Solar Photovoltaics,8.2,Operational
+1569,High Penn Solar Park,Solar Photovoltaics,9.6,Operational
+1570,Highfields Farm (Braintree),Solar Photovoltaics,2.8,Operational
+1571,Highfields Farm (Colchester),Solar Photovoltaics,12.2,Operational
+1572,Hill End Farm,Solar Photovoltaics,2.8,Operational
+1574,Holwell Hill,Solar Photovoltaics,6,Operational
+1575,Hook Valley Solar Park,Solar Photovoltaics,17,Operational
+1576,Partridge Farm,Solar Photovoltaics,10.6,Operational
+1577,Aspatria,Solar Photovoltaics,19,Operational
+1578,Penare Farm Solar Farm,Solar Photovoltaics,11,Operational
+1579,Pencoose Farm,Solar Photovoltaics,8.5,Operational
+1580,Pensipple Farm,Solar Photovoltaics,5,Operational
+1581,Pingewood Road South,Solar Photovoltaics,15.8,Operational
+1582,Pingry Farm - Phase 1,Solar Photovoltaics,3.4,Operational
+1583,Pitworthy Farm Solar Park,Solar Photovoltaics,15.6,Operational
+1584,Primrose Hill Farm,Solar Photovoltaics,3.7,Operational
+1585,Pyde Drove,Solar Photovoltaics,7,Operational
+1586,Race farm,Solar Photovoltaics,6.1,Operational
+1587,Radcliffe Solar Farm,Solar Photovoltaics,4.2,Operational
+1589,Redhall Industrial Estate,Solar Photovoltaics,5,Operational
+1590,Ring O Bells Farm,Solar Photovoltaics,5,Operational
+1591,Roanhead Farm,Solar Photovoltaics,6.5,Operational
+1592,Rotherdale Farm - extension,Solar Photovoltaics,9,Operational
+1593,Roundponds Farm Solar Park,Solar Photovoltaics,13.5,Operational
+1594,Hopton Road Industrial Estate,Solar Photovoltaics,1.3,Operational
+1596,Field House Solar / Hursley Road,Solar Photovoltaics,6.4,Operational
+1597,Kencot Hill Solar Farm,Solar Photovoltaics,37,Operational
+1598,KERNICK MICA DAM - SOLAR FARM,Solar Photovoltaics,12,Operational
+1600,Landmead Farm (East Hanney),Solar Photovoltaics,46,Operational
+1602,Lower Newton Farm,Solar Photovoltaics,11.5,Operational
+1603,Lower Slade Farm,Solar Photovoltaics,4.1,Operational
+1604,Lower Ufford Lane,Solar Photovoltaics,1.1,Operational
+1605,Lynt Farm,Solar Photovoltaics,27,Operational
+1606,Marchington Solar Farm,Solar Photovoltaics,4.3,Operational
+1609,Monksham Solar Farm,Solar Photovoltaics,10.7,Operational
+1610,Moorhouse Lane,Solar Photovoltaics,1.8,Operational
+1611,Morton Wood Farm,Solar Photovoltaics,4.8,Operational
+1613,Natewood Farm,Solar Photovoltaics,8.9,Operational
+1614,Netley Landfill Solar,Solar Photovoltaics,12,Operational
+1615,New Stone House,Solar Photovoltaics,12.5,Operational
+1616,North Creake Airfield ,Solar Photovoltaics,20,Operational
+1617,North of Newton Farm,Solar Photovoltaics,3,Operational
+1619,Roves Farm (Solar) ,Solar Photovoltaics,12.7,Operational
+1620,Salhouse Solar Farm,Solar Photovoltaics,5,Operational
+1621,Norton Hall,Solar Photovoltaics,2.8,Operational
+1622,Oaklands Plantation,Solar Photovoltaics,5,Operational
+1623,Ockendon Landfill Solar Farm,Solar Photovoltaics,38,Operational
+1624,Packington Solar Farm,Solar Photovoltaics,13.9,Operational
+1625,SAUNDERCROFT SOLAR FARM,Solar Photovoltaics,7,Operational
+1626,Sedbury Park,Solar Photovoltaics,5,Operational
+1627,Six Hills Solar Farm,Solar Photovoltaics,18.7,Operational
+1628,South Newton Farm,Solar Photovoltaics,11.3,Operational
+1629,Southdown Quarry,Solar Photovoltaics,1.5,Operational
+1630,Southfield Farm Solar Park ,Solar Photovoltaics,11.5,Operational
+1631,Spittleborough Farm,Solar Photovoltaics,12,Operational
+1632,Stanton solar park,Solar Photovoltaics,5,Operational
+1633,Stantway Solar Farm,Solar Photovoltaics,5,Operational
+1634,Stonebarrow Farm,Solar Photovoltaics,8,Operational
+1635,Stowbridge Farm,Solar Photovoltaics,24,Operational
+1636,Stratton Hall Solar Park,Solar Photovoltaics,11.6,Operational
+1637,Sutton Montis Road Solar Park / Sutton Bridge Solar Farm,Solar Photovoltaics,5.4,Operational
+1638,Thame solar farm,Solar Photovoltaics,4.3,Operational
+1641,The Flit,Solar Photovoltaics,10.5,Operational
+1642,The Old Airfield,Solar Photovoltaics,5,Operational
+1643,Thorne Farm,Solar Photovoltaics,6.2,Operational
+1644,Tiers Cross Solar Farm,Solar Photovoltaics,24,Operational
+1645,Tilmanstone Colliery,Solar Photovoltaics,10,Operational
+1646,Toggam Farm,Solar Photovoltaics,12.5,Operational
+1647,Tower Hill Farm,Solar Photovoltaics,8.1,Operational
+1648,Toyota Motor Manufacturing Uk - Deeside,Solar Photovoltaics,3.8,Operational
+1649,Trench Farm,Solar Photovoltaics,7.2,Operational
+1650,Troughton Farm,Solar Photovoltaics,30,Operational
+1651,Turweston Solar Farm,Solar Photovoltaics,16.7,Operational
+1652,Upper Farm solar park,Solar Photovoltaics,12,Operational
+1653,Upper Huntingford Farm,Solar Photovoltaics,7.7,Operational
+1654,Walnut Yard (Phase 1),Solar Photovoltaics,1.8,Operational
+1655,Water Eaton Farm / Port Farm,Solar Photovoltaics,34.8,Operational
+1656,Wedgehill Farm,Solar Photovoltaics,13,Operational
+1658,West Raynham,Solar Photovoltaics,49.9,Operational
+1659,Westerfield Farm,Solar Photovoltaics,12.5,Operational
+1660,Westover Farm ,Solar Photovoltaics,7,Operational
+1661,Whitley Farm (1 of 2),Solar Photovoltaics,3.5,Operational
+1662,Whitley Farm (2 of 2),Solar Photovoltaics,3.5,Operational
+1663,Whitton Mawr,Solar Photovoltaics,6,Operational
+1665,Winham Farm ,Solar Photovoltaics,5,Operational
+1666,Woden Park,Solar Photovoltaics,5,Operational
+1667,West Kingsmill Farm Solar Park,Solar Photovoltaics,1.6,Operational
+1669,Bommertown Solar Farm,Solar Photovoltaics,5,Operational
+1670,West Ditchen Farm ,Solar Photovoltaics,5,Operational
+1671,Lower Marsh Farm,Solar Photovoltaics,5,Operational
+1672,Bodorgan Solar Farm,Solar Photovoltaics,12.6,Operational
+1673,Chapel Lane Parley Solar Farm Phase 2,Solar Photovoltaics,36,Operational
+1675,Arkwright Solar Farm,Solar Photovoltaics,8,Operational
+1676,Charity Farm (Burlton Solar Farm),Solar Photovoltaics,14.4,Operational
+1677,Verwood Solar Farm,Solar Photovoltaics,20.4,Operational
+1678,Parciau Farm Solar Park,Solar Photovoltaics,13.9,Operational
+1679,Smith Hall Farm Solar Park,Solar Photovoltaics,5,Operational
+1680,Bystock Solar Farm,Solar Photovoltaics,4.1,Operational
+1682,Bedborough Farm,Solar Photovoltaics,7,Operational
+1683,Cranham Golf Course Solar Park,Solar Photovoltaics,2.6,Operational
+1684,Hurcott Copse Solar Farm,Solar Photovoltaics,10,Operational
+1686,Grange Farm Solar Farm,Solar Photovoltaics,4.9,Operational
+1687,Trehawke Barton (Doddycross) Solar Farm,Solar Photovoltaics,10.6,Operational
+1691,Newton Ferrers solar park,Solar Photovoltaics,19.5,Operational
+1692,Nancrossa Farm solar park,Solar Photovoltaics,6,Operational
+1693,Pitts Farm,Solar Photovoltaics,2.6,Operational
+1694,Walmoor Farm solar park,Solar Photovoltaics,4,Operational
+1695,Trequite Farm solar park ,Solar Photovoltaics,9.9,Operational
+1696,Bentley Estate,Solar Photovoltaics,5,Operational
+1697,New Row Farm,Solar Photovoltaics,3.9,Operational
+1699,MALMAYNES HALL FARM,Solar Photovoltaics,12,Operational
+1700,Crucis Park,Solar Photovoltaics,12.5,Operational
+1701,Treguff Farm ,Solar Photovoltaics,4.4,Operational
+1702,Kenardington Place Farm,Solar Photovoltaics,7,Operational
+1703,Henbury Quarry,Solar Photovoltaics,3.9,Operational
+1704,Grange Farm (Kirkby on Bain),Solar Photovoltaics,9,Operational
+1707,Boxted Airfield,Solar Photovoltaics,18.8,Operational
+1708,Rectory Farm/Emberton,Solar Photovoltaics,9,Operational
+1709,St Francis Court Farm,Solar Photovoltaics,4,Operational
+1713,Berry Court Farm,Solar Photovoltaics,4.2,Operational
+1714,Walkers Wood Solar Park,Solar Photovoltaics,27,Operational
+1715,Odell Glebe Solar Farm,Solar Photovoltaics,16.8,Operational
+1716,Hunstrete (Wilmington Farm),Solar Photovoltaics,2.3,Operational
+1717,Lower Severalls Farm,Solar Photovoltaics,10.8,Operational
+1720,Burton Farm,Solar Photovoltaics,4.4,Operational
+1721,Sundorne Grove,Solar Photovoltaics,20,Operational
+1722,Lower End Farm,Solar Photovoltaics,4.9,Operational
+1723,Skegness Solar Park,Solar Photovoltaics,4.9,Operational
+1724,Land north of Temple Normanton,Solar Photovoltaics,4.9,Operational
+1725,Helland Meads ,Solar Photovoltaics,1.2,Operational
+1726,Crow Trees Farm,Solar Photovoltaics,4.7,Operational
+1727,Priest Weston,Solar Photovoltaics,1,Operational
+1729,Horam,Solar Photovoltaics,8.1,Operational
+1731,Turves/Burtnhouse Solar Farm Extension,Solar Photovoltaics,4.7,Operational
+1733,Coombe Farm,Solar Photovoltaics,8,Operational
+1734,Higher Hill Farm (extension),Solar Photovoltaics,1.5,Operational
+1735,Mount Farm,Solar Photovoltaics,22,Operational
+1736,Hafod-Y-Dafal Farm,Solar Photovoltaics,14,Operational
+1737,Barr Farm,Solar Photovoltaics,1.8,Operational
+1738,BAE Samlesbury Aerodrome,Solar Photovoltaics,2,Operational
+1739,Shoals Hook Farm,Solar Photovoltaics,12.1,Operational
+1740,Manor Farm,Solar Photovoltaics,7.5,Operational
+1741,Littlewood Farm,Solar Photovoltaics,14,Operational
+1743,Cherry Tree Farm,Solar Photovoltaics,5,Operational
+1744,Lodge Farm,Solar Photovoltaics,2.4,Operational
+1745,Bumpers Farm Phase 1,Solar Photovoltaics,5,Operational
+1746,Birch Airfield,Solar Photovoltaics,5.6,Operational
+1747,Gaultney Solar Park,Solar Photovoltaics,20.5,Operational
+1749,Puriton Landfill Solar Farm,Solar Photovoltaics,11.4,Operational
+1751,Hunciecroft Farm,Solar Photovoltaics,8,Operational
+1755,Rolleston Park Farm,Solar Photovoltaics,18.7,Operational
+1759,Prestop Park Farm,Solar Photovoltaics,16,Operational
+1760,Yardwall Manor,Solar Photovoltaics,3,Operational
+1761,Royston Solar Farm (Phase 1) (a),Solar Photovoltaics,5,Operational
+1762,MOD Lyneham,Solar Photovoltaics,40,Operational
+1763,Deepdale Farm,Solar Photovoltaics,8,Operational
+1764,Manor Farm (Horton),Solar Photovoltaics,5,Operational
+1765,Penrhiwarwydd Farm,Solar Photovoltaics,8.5,Operational
+1767,Nowhere Farm,Solar Photovoltaics,8.1,Operational
+1769,Langar Lane,Solar Photovoltaics,10,Operational
+1770,Pitchford,Solar Photovoltaics,10.2,Operational
+1771,Condover Airfield,Solar Photovoltaics,12.3,Operational
+1772,Askern Colliery solar farm,Solar Photovoltaics,5,Operational
+1774,Maesgwyn solar farm,Solar Photovoltaics,7.5,Operational
+1775,Church Farm,Solar Photovoltaics,6.2,Operational
+1776,Folly Farm,Solar Photovoltaics,13.1,Operational
+1777,Stowbridge Farm - Extension (Phase 2),Solar Photovoltaics,10,Operational
+1778,Black Peak Farm,Solar Photovoltaics,31.8,Operational
+1780,"Jubilee Farm, Barnby Moor",Solar Photovoltaics,5,Operational
+1784,Newnham Estate,Solar Photovoltaics,14,Operational
+1785,Wambrook Farm,Solar Photovoltaics,4.1,Operational
+1786,Gawcott Fields Farm,Solar Photovoltaics,9.2,Operational
+1787,Mount Mill Farm ,Solar Photovoltaics,12,Operational
+1790,Handley Park ,Solar Photovoltaics,5,Operational
+1791,Tollgate Farm,Solar Photovoltaics,4.3,Operational
+1792,North Farm (Spetisbury),Solar Photovoltaics,11.6,Operational
+1793,Chapel Lane Parley Solar Farm Phase 3,Solar Photovoltaics,4,Operational
+1795,GDL Wymeswold Solar Farm/land off the A6006,Solar Photovoltaics,6.1,Operational
+1796,Hillhouse Farm,Solar Photovoltaics,28.5,Operational
+1797,Gib Lane (Aston Clinton solar park),Solar Photovoltaics,24.2,Operational
+1798,Outwood Farm (Phase 1),Solar Photovoltaics,5,Operational
+1799,Raventhorpe Farm,Solar Photovoltaics,38,Operational
+1800,Manor Farm (Castle Cary),Solar Photovoltaics,1.8,Operational
+1801,Maes Bach Farm,Solar Photovoltaics,4.9,Operational
+1802,Sheepbridge Court Farm,Solar Photovoltaics,5,Operational
+1805,Elton solar farm,Solar Photovoltaics,5,Operational
+1806,Cross Roads Plantation,Solar Photovoltaics,5,Operational
+1807,Munceys Farm,Solar Photovoltaics,31.6,Operational
+1810,Luscott Barton,Solar Photovoltaics,13,Operational
+1811,Kinmel 1 CIC,Solar Photovoltaics,5,Operational
+1813,Owls Hatch Road,Solar Photovoltaics,48,Operational
+1816,Wilbees Farm ,Solar Photovoltaics,5,Operational
+1817,Winterbrook,Solar Photovoltaics,1.2,Operational
+1818,Welbeck Solar / Hazel Gap,Solar Photovoltaics,16,Operational
+1819,Homestead Farm (Alderton),Solar Photovoltaics,17.6,Operational
+1821,Arna Wood Solar,Solar Photovoltaics,6.2,Operational
+1822,Knottingley A,Solar Photovoltaics,5,Operational
+1823,Clayhill Farm,Solar Photovoltaics,10,Operational
+1824,Paddock Wood,Solar Photovoltaics,9.2,Operational
+1826,Wick Farm (Burnham on Crouch),Solar Photovoltaics,5,Operational
+1829,Netherfield Lane,Solar Photovoltaics,19.7,Operational
+1830,Upper Meadowley Farm,Solar Photovoltaics,10.7,Operational
+1832,Wick Farm Solar Park,Solar Photovoltaics,14.6,Operational
+1835,High Leas,Solar Photovoltaics,6.5,Operational
+1836,Atherstone,Solar Photovoltaics,14.7,Operational
+1837,The Elms,Solar Photovoltaics,10.4,Operational
+1838,Hunters Race Solar Park,Solar Photovoltaics,9.3,Operational
+1839,Parham Airfield (Great Glenham),Solar Photovoltaics,17.5,Operational
+1840,Chapel Lane Parley Solar Farm Phase 1,Solar Photovoltaics,20,Operational
+1841,Welbeck Colliery,Solar Photovoltaics,11.3,Operational
+1842,Priory Farm,Solar Photovoltaics,3.1,Operational
+1843,Norrington Common Solar Farm,Solar Photovoltaics,10,Operational
+1844,Hendre Fawr Farm,Solar Photovoltaics,11.6,Operational
+1846,Northmoor,Solar Photovoltaics,5,Operational
+1854,Manor Farm - Shripney,Solar Photovoltaics,5,Operational
+1856,Chelwood Solar Farm,Solar Photovoltaics,5,Operational
+1857,Manor Farm - Pertenhall,Solar Photovoltaics,15,Operational
+1858,Hardingham Solar Farm - extension,Solar Photovoltaics,5.2,Operational
+1865,Brooks Farm Solar Park,Solar Photovoltaics,8,Operational
+1866,Christchurch Energy,Solar Photovoltaics,18,Operational
+1867,Yarburgh Grove Farm,Solar Photovoltaics,8.1,Operational
+1870,Taplins Farm solar park,Solar Photovoltaics,5.9,Operational
+1872,Homestead Farm,Solar Photovoltaics,10.7,Operational
+1877,The Kickles,Solar Photovoltaics,5,Operational
+1878,Eakring Solar Farm,Solar Photovoltaics,11.9,Operational
+1879,Egmanton Solar Farm ,Solar Photovoltaics,14.2,Operational
+1881,Branston solar park,Solar Photovoltaics,18.9,Operational
+1882,Golden Hill,Solar Photovoltaics,6.2,Operational
+1883,Chapel Hill,Solar Photovoltaics,8,Operational
+1884,Pen Rhiw Caradog,Solar Photovoltaics,4.7,Operational
+1886,Vine Farm Solar Park,Solar Photovoltaics,45,Operational
+1888,Coombeshead Solar Farm,Solar Photovoltaics,8,Operational
+1889,Decoy Farm,Solar Photovoltaics,5,Operational
+1890,Easington Farm (Chalgrove),Solar Photovoltaics,21.3,Operational
+1891,Gelliwern Isaf Farm,Solar Photovoltaics,6,Operational
+1892,Sawmills Solar Farm,Solar Photovoltaics,6.5,Operational
+1893,Walland Farm,Solar Photovoltaics,5,Operational
+1895,Weycock Road,Solar Photovoltaics,7,Operational
+1899,Higher Bye Farm,Solar Photovoltaics,6.8,Operational
+1900,Cockhill Solar Farm,Solar Photovoltaics,20,Operational
+1901,Bentham Farm,Solar Photovoltaics,8,Operational
+1902,Boscombe Airfield,Solar Photovoltaics,12.3,Operational
+1904,Shotwick Solar Farm,Solar Photovoltaics,72.2,Operational
+1905,Winnards Perch Solar Farm,Solar Photovoltaics,3.8,Operational
+1908,Lodge Farm (Poulshot),Solar Photovoltaics,14.5,Operational
+1909,Glebe Farm Solar Energy Park,Solar Photovoltaics,15,Operational
+1910,Bryn yr Odyn Solar Farm,Solar Photovoltaics,15,Operational
+1911,Rhyd-y-Pandy Solar Farm,Solar Photovoltaics,6,Operational
+1912,Saron Road solar park,Solar Photovoltaics,6.7,Operational
+1913,Tiln Farm solar park,Solar Photovoltaics,8,Operational
+1914,Langford Solar Farm,Solar Photovoltaics,13,Operational
+1915,Stokes Marsh Farm,Solar Photovoltaics,16.6,Operational
+1916,West Hall Solar Farm,Solar Photovoltaics,7,Operational
+1917,Stowbridge Farm - Extension (Phase 1),Solar Photovoltaics,10,Operational
+1918,Bourne Park (Solar),Solar Photovoltaics,5,Operational
+1919,Hall Farm,Solar Photovoltaics,5.1,Operational
+1920,Brynteg Farm,Solar Photovoltaics,16.2,Operational
+1921,Stonepit Farm,Solar Photovoltaics,5,Operational
+1922,Yerbeston Gate Farm,Solar Photovoltaics,6.1,Operational
+1923,Grange Farm (Lincolnshire),Solar Photovoltaics,12.7,Operational
+1924,Molehill Farm,Solar Photovoltaics,18,Operational
+1925,Pashley Farm,Solar Photovoltaics,11.5,Operational
+1926,Fiskerton Airfield (Phase 1),Solar Photovoltaics,12,Operational
+1927,Hendai Farm,Solar Photovoltaics,13.4,Operational
+1928,Bury Lane Fruit Farm,Solar Photovoltaics,24,Operational
+1929,Marsh Farm Hilperton,Solar Photovoltaics,9.1,Operational
+1931,Ashlawn Farm,Solar Photovoltaics,6.8,Operational
+1932,Cuckoo Grove Farm,Solar Photovoltaics,6.1,Operational
+1933,Gedling Solar Farm,Solar Photovoltaics,5.7,Operational
+1934,Bilsthorpe Quarry Solar Park,Solar Photovoltaics,4.8,Operational
+1935,Littlebourne,Solar Photovoltaics,17,Operational
+1936,Wellingborough Solar Farm,Solar Photovoltaics,8.5,Operational
+1937,Baglan Bay Solar Farm - Phase 1,Solar Photovoltaics,5,Operational
+1938,Gover Farm Solar Park,Solar Photovoltaics,8,Operational
+1939,Kerriers Solar Park,Solar Photovoltaics,9.6,Operational
+1940,Hullavington Solar Park,Solar Photovoltaics,7,Operational
+1941,Crossness Sewage Works PV,Solar Photovoltaics,1.5,Operational
+1942,Higher Hill Farm,Solar Photovoltaics,5,Operational
+1943,Manor Farm (Keinton Mandeville),Solar Photovoltaics,1,Operational
+1944,Walton WTW PV,Solar Photovoltaics,1.8,Operational
+1945,Wolseley National Distribution Centre,Solar Photovoltaics,2,Operational
+1956,South Beach Wind Turbine (Somerton),Wind Onshore,1.5,Operational
+1957,Swaffham 1 - Ecotech Wind Park,Wind Onshore,1.5,Operational
+1958,Mynydd Gorddu Wind Farm,Wind Onshore,10.2,Operational
+1961,Cefn Croes Wind Farm,Wind Onshore,58.5,Operational
+1962,Carno 'B' Wind Farm,Wind Onshore,16.8,Operational
+1963,Carno 'A' Wind Farm,Wind Onshore,16.8,Operational
+1964,Cemmaes 'B' Wind Farm,Wind Onshore,3.4,Operational
+1965,Trysglwyn Wind Farm,Wind Onshore,5.6,Operational
+1966,Hafoty Ucha '2' and '3' Wind Turbine,Wind Onshore,2.6,Operational
+1969,Royal Seaforth Dock Wind Farm,Wind Onshore,3,Operational
+1970,Cemmaes 'C' Wind Farm,Wind Onshore,15.3,Operational
+1975,Llanbabo Wind Farm,Wind Onshore,20.4,Operational
+1977,Tow Law Wind Farm,Wind Onshore,2.6,Operational
+1978,Kirkheaton Wind Farm,Wind Onshore,1.8,Operational
+1980,Great Eppleton Wind Farm,Wind Onshore,3,Operational
+1987,Great Orton Wind Farm (Extension),Wind Onshore,2.3,Operational
+1988,Harlock Hill Wind Farm,Wind Onshore,2.5,Operational
+1989,Wharrels Hill Wind Farm,Wind Onshore,10.4,Operational
+1992,Siddick Wind Farm,Wind Onshore,4.2,Operational
+1993,Oldside Wind Farm,Wind Onshore,5.4,Operational
+1994,Haverigg Extension Wind Farm,Wind Onshore,2.4,Operational
+1997,Blaen Bowi Wind Farm,Wind Onshore,3.9,Operational
+2001,Parc-Cynog Wind Farm,Wind Onshore,3.6,Operational
+2012,Moel Maelogen A,Wind Onshore,2.6,Operational
+2015,Out Newton Wind Farm,Wind Onshore,9,Operational
+2023,Brockholes Wind Cluster,Wind Onshore,2.4,Operational
+2024,Kilbraur Windfarm Farlary - Extension,Wind Onshore,20,Operational
+2025,Maesgwyn,Wind Onshore,26,Operational
+2028,Spicer Hill Wind Farm,Wind Onshore,6.9,Operational
+2031,Ford Motor Company Ltd (Extension),Wind Onshore,2,Operational
+2035,FMC Technologies,Wind Onshore,1.5,Operational
+2039,Boyndie Airfield Extension,Wind Onshore,2.3,Operational
+2042,Blue Gates Farm,Wind Onshore,1.5,Operational
+2043,Celcon Blocks Ltd,Wind Onshore,2,Operational
+2045,Hammar's Hill,Wind Onshore,4.3,Operational
+2052,"F M C Land, Pitreavie Business Park",Wind Onshore,1.5,Operational
+2056,Strath of Brydock - Extension,Wind Onshore,2.3,Operational
+2057,Hare Hill (East Ayrshire),Wind Onshore,13.2,Operational
+2059,Kirkby Moor,Wind Onshore,4.8,Operational
+2061,Bambers II,Wind Onshore,4.6,Operational
+2063,Millennium Extension II,Wind Onshore,15,Operational
+2064,Cairnmore Farm,Wind Onshore,2.6,Operational
+2070,St Fergus Moss Wind Farm,Wind Onshore,6,Operational
+2071,"West Hill, Flotta",Wind Onshore,2,Operational
+2073,Chelker Reservoir (Retention of Turbines),Wind Onshore,1.2,Operational
+2080,Whitelee Windfarm Extension phase 2,Wind Onshore,109,Operational
+2081,Hill of Balquhindachy extension,Wind Onshore,1.7,Operational
+2095,Taff Ely Wind Farm,Wind Onshore,9,Operational
+2097,Mossmorran Wind Farm,Wind Onshore,4.6,Operational
+2098,Courtstone Wind Turbine,Wind Onshore,2.3,Operational
+2107,Lairg Wind Farm,Wind Onshore,7.5,Operational
+2111,G24 Innovations Turbine,Wind Onshore,2.3,Operational
+2117,Mornflake Oats Wind Turbine,Wind Onshore,2.3,Operational
+2121,Clochnahill Wind Farm,Wind Onshore,5.2,Operational
+2129,Strathallan Wind Farm,Wind Onshore,20.7,Under Construction
+2132,St John Hill,Wind Onshore,7.7,Operational
+2133,Bryn Blaen Wind Farm,Wind Onshore,13.8,Operational
+2135,MARCH SEWAGE TREATMENT WORKS - WIND TURBINE,Wind Onshore,2,Operational
+2145,Burnfoot Hill,Wind Onshore,26,Operational
+2158,Chelker Reservoir,Wind Onshore,1.3,Operational
+2159,Strath of Brydock,Wind Onshore,4.6,Operational
+2160,House O'Hill,Wind Onshore,5,Operational
+2163,Bagmoor,Wind Onshore,16,Operational
+2166,Croda Chemicals Europe,Wind Onshore,3,Operational
+2168,"Eastman Chemicals, Workington",Wind Onshore,4,Operational
+2171,Lindhurst Wind Farm,Wind Onshore,15,Operational
+2172,Craigengelt,Wind Onshore,20,Operational
+2174,Saltend Wind Turbine,Wind Onshore,1.3,Operational
+2175,Loftsome Bridge,Wind Onshore,1.3,Operational
+2176,Nissan Wind Farm,Wind Onshore,4,Operational
+2182,Parc Cynog Extension,Wind Onshore,8.4,Operational
+2184,Ranson Moor (phase 1),Wind Onshore,6,Operational
+2185,Ranson Moor Wind Farm (Phase 2),Wind Onshore,4,Operational
+2187,West Durham Wind Farm,Wind Onshore,24,Operational
+2188,Dyffryn Brodyn Wind Farm,Wind Onshore,5.5,Operational
+2193,North Red Bog,Wind Onshore,1.6,Operational
+2195,Milton Keynes Wind Farm,Wind Onshore,14,Operational
+2204,Broom Hill Farm,Wind Onshore,8,Operational
+2207,Winscales Moor,Wind Onshore,6,Operational
+2208,Wind Farm Africa Alive,Wind Onshore,4.1,Operational
+2209,Beinn Tharsuinn Extension (Beinn nan Oighrean),Wind Onshore,4.6,Operational
+2214,St John's Well,Wind Onshore,2.4,Operational
+2216,Hellrigg Wind farm,Wind Onshore,9.2,Operational
+2224,Bryn titli Windfarm,Wind Onshore,9.9,Operational
+2226,Delabole (Repowering),Wind Onshore,9.2,Operational
+2227,Whittlesey,Wind Onshore,9,Operational
+2233,Advanced Manufacturing Research Centre,Wind Onshore,2.6,Operational
+2238,Solutia UK Ltd,Wind Onshore,5,Operational
+2249,High Haswell Wind Farm,Wind Onshore,4,Operational
+2256,Llandinam Windfarm,Wind Onshore,31,Operational
+2260,Goonhilly Downs Wind Farm Repower,Wind Onshore,12,Operational
+2266,MSD Cramlington,Wind Onshore,4,Operational
+2272,Skelmonae Wind Farm,Wind Onshore,3.2,Operational
+2274,Carn Vean,Wind Onshore,10,Operational
+2275,Dewlay Cheese Wind Turbine,Wind Onshore,2,Operational
+2276,Coal Clough Wind Farm,Wind Onshore,9.6,Operational
+2286,Myres Hill,Wind Onshore,1.8,Operational
+2287,High Sharpley Wind Farm,Wind Onshore,2.6,Operational
+2288,National Wind Turbine Test Site,Wind Onshore,4.7,Operational
+2291,Little Cheyne Court Wind Farm,Wind Onshore,59.8,Operational
+2293,Long Hill Road,Wind Onshore,2,Operational
+2296,Ness point Wind Turbine 1,Wind Onshore,2.3,Operational
+2298,Causeymire,Wind Onshore,48.3,Operational
+2299,Hadyard Hill,Wind Onshore,120,Operational
+2300,Hare Hill (B),Wind Onshore,2.7,Operational
+2302,Crystal Rig Phase 1,Wind Onshore,62.5,Operational
+2304,Black Law,Wind Onshore,124,Operational
+2305,Ardrossan,Wind Onshore,24,Operational
+2306,Braes O'Doune,Wind Onshore,72,Operational
+2307,Thorfinn Wind Farm - NM1500,Wind Onshore,1.5,Operational
+2311,Boulfruich,Wind Onshore,13,Operational
+2313,Bicker Fen,Wind Onshore,26.7,Operational
+2314,Stags Holt,Wind Onshore,18,Operational
+2315,Glass Moor,Wind Onshore,16,Operational
+2316,Gedney Marsh,Wind Onshore,12,Operational
+2317,Ben Aketil,Wind Onshore,23,Operational
+2329,Knabs Ridge Windfarm,Wind Onshore,16,Operational
+2331,Kelburn,Wind Onshore,28,Operational
+2337,Ramsey 1,Wind Onshore,1.8,Operational
+2339,Bambers Farm,Wind Onshore,9.6,Operational
+2340,Ford Wind Park - Dagenham,Wind Onshore,5.9,Operational
+2341,Swaffham Plashes II,Wind Onshore,1.8,Operational
+2343,Shooters Bottom Wind Park,Wind Onshore,2,Operational
+2348,Caton Moor Windfarm Repowering,Wind Onshore,16,Operational
+2349,Moel Maelogen A Phase 2,Wind Onshore,11.7,Operational
+2354,Scout Moor Windfarm,Wind Onshore,65,Operational
+2356,The Haven,Wind Onshore,1.2,Operational
+2362,The Hollies,Wind Onshore,2.6,Operational
+2366,Tullo Farm,Wind Onshore,17.5,Operational
+2373,Dummuie,Wind Onshore,12.3,Operational
+2374,Earlsburn,Wind Onshore,37.5,Operational
+2375,Kilbraur Windfarm,Wind Onshore,47.5,Operational
+2378,Achany Wind Farm,Wind Onshore,38,Operational
+2380,Bilbster Wind Farm,Wind Onshore,3.9,Operational
+2383,Green Park,Wind Onshore,2,Operational
+2387,Carcant Windfarm,Wind Onshore,6,Operational
+2391,Butterwick Moor,Wind Onshore,20.5,Operational
+2393,Hagshaw Hill Wind Farm Extension,Wind Onshore,26,Operational
+2396,Southern Law,Wind Onshore,5.2,Operational
+2400,Llangwyryfon,Wind Onshore,9.4,Operational
+2403,Pates Hill,Wind Onshore,14,Operational
+2404,Roskrow Wind Turbines,Wind Onshore,1.7,Operational
+2407,Greendykeside,Wind Onshore,4,Operational
+2411,Loscar Farm,Wind Onshore,4.5,Operational
+2412,Langley Moor,Wind Onshore,8,Operational
+2417,Arecleoch Windfarm,Wind Onshore,120,Operational
+2419,Mark Hill,Wind Onshore,56,Operational
+2421,Westmill Wind Farm,Wind Onshore,6.5,Operational
+2427,Lodge Farm 1,Wind Onshore,1,Operational
+2432,"Carno 'A'and 'B' Wind Farm, (Extension)",Wind Onshore,15.6,Operational
+2439,Achairn,Wind Onshore,6.2,Operational
+2443,High Hedley Hope 2 (Extension),Wind Onshore,5.2,Operational
+2444,Beinn an Tuirc,Wind Onshore,29.7,Operational
+2446,Cnoc Donn Arnicle,Wind Onshore,15,Operational
+2447,Beinn Ghlas Wind Farm,Wind Onshore,7.8,Operational
+2448,"Bendealt Wind Farm, Highland",Wind Onshore,9,Operational
+2449,Meall an Tuirc Wind Farm,Wind Onshore,17,Operational
+2450,An Suidhe,Wind Onshore,19.3,Operational
+2451,Roughside Hill,Wind Onshore,30,Operational
+2452,Bowbeat Wind Farm,Wind Onshore,31.2,Operational
+2453,Hagshaw Hill Wind Farm,Wind Onshore,7.8,Operational
+2456,Arnish Moor,Wind Onshore,3.9,Operational
+2457,Burgar Hill,Wind Onshore,5,Operational
+2458,Thorfinn Wind Farm - NM2000,Wind Onshore,2.3,Operational
+2459,Hill of Lybster,Wind Onshore,4.9,Operational
+2460,Burradale Hill,Wind Onshore,3.7,Operational
+2461,Glens of Foudland,Wind Onshore,26,Operational
+2462,Castle Pill - Repowering,Wind Onshore,3.2,Operational
+2464,Whitelaw Brae Wind Farm,Wind Onshore,50.4,Appeal Granted
+2468,New Holland,Wind Onshore,1,Operational
+2470,Cumberhead West Wind Farm,Wind Onshore,126,Under Construction
+2485,Weston Airfield Wind Turbines,Wind Onshore,3.6,Operational
+2490,Orton Park Farm,Wind Onshore,1.6,Operational
+2491,PROMISED LAND FARM,Wind Onshore,1,Operational
+2496,Nethercott Farm,Wind Onshore,1.5,Operational
+2498,Bonerbo Wind Turbines,Wind Onshore,1.5,Operational
+2499,Aberarder Wind Farm,Wind Onshore,49.9,Under Construction
+2504,Princes Gate Spring Water,Wind Onshore,1.6,Operational
+2505,Phase 1 Bettyhill Wind Farm,Wind Onshore,5,Operational
+2507,Sibelco Brassington,Wind Onshore,2.3,Operational
+2510,Beinn an Tuirc Windfarm Phase 3,Wind Onshore,49.9,Under Construction
+2512,Lambrigg Wind Farm,Wind Onshore,6.5,Operational
+2513,Askam,Wind Onshore,4.6,Operational
+2514,Bears Down Wind Farm,Wind Onshore,9.8,Operational
+2518,Welton Of Creuchies,Wind Onshore,9.2,Operational
+2520,Droop Hill Wind Farm x,Wind Onshore,4.6,Operational
+2524,Denhill,Wind Onshore,2.3,Operational
+2525,Haddo,Wind Onshore,4.6,Operational
+2526,Gairnieston Farm,Wind Onshore,2.3,Operational
+2529,"Burgar Hill (land Near), Evie",Wind Onshore,2.3,Operational
+2534,Tod Hill Farm Wind Turbines,Wind Onshore,12,Operational
+2543,Moorhouse Farm,Wind Onshore,1,Operational
+2546,Royd Moor,Wind Onshore,5.9,Operational
+2547,Stroupster Wind Farm - additional turbine,Wind Onshore,2.3,Operational
+2548,Gordonbush (extension),Wind Onshore,47,Under Construction
+2549,Hill Of Lychrobbie,Wind Onshore,2.4,Appeal Granted
+2550,Little Belhus Restoration Site,Wind Onshore,1,Operational
+2551,Crystal Rig Wind Farm Phase 2a,Wind Onshore,138,Operational
+2559,Clachan Flats Wind Farm,Wind Onshore,15,Operational
+2560,Fen Farm,Wind Onshore,16,Operational
+2561,Darracott Moor,Wind Onshore,2.6,Operational
+2563,Lochhead Farm,Wind Onshore,6,Operational
+2567,Toddleburn,Wind Onshore,27.6,Operational
+2568,Crimp Wind Farm,Wind Onshore,2.4,Operational
+2571,Hedley Hope,Wind Onshore,2.4,Operational
+2572,Tangy Wind Farm/Tangy 1,Wind Onshore,12.8,Operational
+2581,Coldham Hall,Wind Onshore,14,Operational
+2582,Whitemill Wind Farm,Wind Onshore,14,Operational
+2588,Green Knowes,Wind Onshore,27,Operational
+2590,Whitelee,Wind Onshore,322,Operational
+2592,Great Orton,Wind Onshore,4,Operational
+2593,Winscales Phase I and II,Wind Onshore,8.8,Operational
+2595,Holmside Hall,Wind Onshore,2.8,Operational
+2596,High Volts Wind Farm,Wind Onshore,5.5,Operational
+2597,Hare Hill,Wind Onshore,1.3,Operational
+2601,Enoch Hill,Wind Onshore,70,Under Construction
+2602,Benbrack Wind Farm,Wind Onshore,67.1,Under Construction
+2603,Great Eppleton Farm Repowering,Wind Onshore,8.2,Operational
+2606,Haswell Moor,Wind Onshore,10,Operational
+2609,Worksop - B&Q,Wind Onshore,2,Operational
+2610,Cold Northcott,Wind Onshore,6.6,Operational
+2620,Upper Ardgrain Wind Farm,Wind Onshore,2.4,Operational
+2624,Rothiesholm,Wind Onshore,2.7,Operational
+2625,Hill of Easterton,Wind Onshore,2.5,Operational
+2626,Port of Liverpool - wind,Wind Onshore,10,Operational
+2627,Rothes Wind (Cairn Uish),Wind Onshore,50.6,Operational
+2629,Crystal Rig Extension II,Wind Onshore,20.7,Operational
+2631,Glenkerie Wind Farm,Wind Onshore,22,Operational
+2632,Lissett Airfield Wind Farm,Wind Onshore,30,Operational
+2641,Methlick Farmers Wind Energy Project,Wind Onshore,12,Operational
+2645,Rheidol Wind Farm,Wind Onshore,2.4,Operational
+2647,Deucheran Hill,Wind Onshore,15.8,Operational
+2648,Bryn Du,Wind Onshore,16.4,Operational
+2655,Dun Law,Wind Onshore,17.2,Operational
+2657,Black Hill (Borders),Wind Onshore,28.6,Operational
+2658,Four Burrows Wind Farm,Wind Onshore,4.5,Operational
+2659,Dun Law Extension,Wind Onshore,29.8,Operational
+2660,Lochelbank Wind Farm II,Wind Onshore,9.6,Operational
+2664,Cruach Mhor,Wind Onshore,33.3,Operational
+2668,Wern Ddu Wind Farm,Wind Onshore,9.2,Operational
+2669,Hagshaw Hill Wind Farm,Wind Onshore,7.8,Operational
+2670,Muirake,Wind Onshore,4.6,Operational
+2672,Millennium Extension,Wind Onshore,10,Operational
+2674,Rusholme Wind Farm,Wind Onshore,24,Operational
+2677,Longpark,Wind Onshore,38,Operational
+2678,Walkway,Wind Onshore,14,Operational
+2679,Coldham,Wind Onshore,16,Operational
+2680,Red Tile,Wind Onshore,24,Operational
+2681,Deeping St Nicholas Wind Farm,Wind Onshore,16.4,Operational
+2683,Lowca Wind Farm,Wind Onshore,4.7,Operational
+2685,Fairfield Farm,Wind Onshore,6.5,Operational
+2686,Haverigg Repowering (Haverigg II),Wind Onshore,1.2,Operational
+2690,Beinneun Windfarm Extension,Wind Onshore,23.8,Operational
+2698,Ewe Hill (extension),Wind Onshore,36.8,Operational
+2703,Hazelside farm,Wind Onshore,1.6,Under Construction
+2715,Melton Common Wind Cluster,Wind Onshore,5,Operational
+2717,Moy Wind Farm (2nd Application),Wind Onshore,66,Operational
+2720,Rosehill Wind Turbines,Wind Onshore,2.4,Operational
+2724,Twin Rivers,Wind Onshore,28.7,Operational
+2725,Penrhys Wind Farm/Ferndale Power Factory,Wind Onshore,6.4,Operational
+2726,Gordonbush,Wind Onshore,70,Operational
+2728,Avonmouth Wind Power,Wind Onshore,8.2,Operational
+2729,Gordonstown Hill Wind Farm,Wind Onshore,12.5,Operational
+2730,The Rosti Factory,Wind Onshore,2.2,Operational
+2731,Ben Aketil Extension,Wind Onshore,4.6,Operational
+2733,Lochcarnan Community Windfarm,Wind Onshore,6.9,Operational
+2734,The Grange Wind Farm,Wind Onshore,14,Operational
+2735,Humphrey Group,Wind Onshore,5,Operational
+2736,Rodbaston,Wind Onshore,4,Operational
+2737,Boundary Lane,Wind Onshore,6,Operational
+2739,Nutberry Wind Farm,Wind Onshore,15,Operational
+2740,Penny Hill Lane,Wind Onshore,19.8,Operational
+2742,West Knock Wind Cluster,Wind Onshore,2.4,Operational
+2743,Low Spinney Wind Farm,Wind Onshore,8,Operational
+2745,Westfield,Wind Onshore,12.5,Operational
+2746,Swinford Wind Farm,Wind Onshore,22,Operational
+2747,Burnt House Farm,Wind Onshore,6,Operational
+2749,Calder Water Community Wind Farm,Wind Onshore,28,Operational
+2751,Millour Hill Community Windfarm ,Wind Onshore,18,Operational
+2752,Netherton of Windyhills,Wind Onshore,4.6,Operational
+2754,Gallowhill,Wind Onshore,1.8,Operational
+2755,Frodsham Marsh,Wind Onshore,50.4,Operational
+2756,Brechfa Forest West,Wind Onshore,57.4,Operational
+2758,Greenhill Croft,Wind Onshore,4.6,Operational
+2759,Severn Trent STW,Wind Onshore,2.5,Operational
+2760,Spaldington Airfield,Wind Onshore,12.5,Operational
+2761,Hillhead of Auquhirie,Wind Onshore,6.9,Operational
+2762,Middleton Wind Farm,Wind Onshore,12,Operational
+2763,Orchard End ,Wind Onshore,4,Operational
+2765,Mynydd Bwllfa Wind Farm - Resubmission,Wind Onshore,22.5,Operational
+2767,Tirgwynt,Wind Onshore,24.6,Operational
+2770,Garreg Lwyd,Wind Onshore,34,Operational
+2771,Castle of Auchry Farm,Wind Onshore,2.4,Operational
+2775,Little Byth,Wind Onshore,4.5,Operational
+2776,Yonderton Farm,Wind Onshore,1,Operational
+2778,Oakdale Business Park,Wind Onshore,4,Operational
+2783,Boddington Reservoir,Wind Onshore,1.5,Operational
+2784,HMP Standford Hill,Wind Onshore,4.6,Operational
+2785,Sancton Hill,Wind Onshore,10,Operational
+2788,Port of Sheerness Wind Farm (was Lappel Bank),Wind Onshore,8.2,Operational
+2789,Stonish Hill (Bilsthorpe),Wind Onshore,10.3,Operational
+2791,Stags Holt Extension,Wind Onshore,2,Operational
+2794,North Yell Wind Farm (Garth Community Wind Farm),Wind Onshore,4.5,Operational
+2795,Glenurquhart and Strathglass Wind Farm project,Wind Onshore,10,Operational
+2796,Damhead Farm,Wind Onshore,2.5,Operational
+2797,Hyndburn Wind Farm,Wind Onshore,24,Operational
+2798,Tedder Hill Wind cluster,Wind Onshore,7.5,Operational
+2800,Lynemouth Windfarm (Resubmission),Wind Onshore,26,Operational
+2802,Wingates Wind Farm,Wind Onshore,15,Operational
+2805,Wathegar wind farm,Wind Onshore,10,Operational
+2806,Allt Dearg Wind Farmers LLP,Wind Onshore,10.8,Operational
+2807,Hameldon Hill extension,Wind Onshore,7.5,Operational
+2810,Dalby,Wind Onshore,7.2,Operational
+2811,Glass moor Extension,Wind Onshore,12,Operational
+2817,Cour Wind Farm,Wind Onshore,20.5,Operational
+2821,Upper Wheedlemont Farm,Wind Onshore,1.7,Operational
+2828,Shielburn Farm,Wind Onshore,6.9,Operational
+2831,Beinneun,Wind Onshore,85,Operational
+2835,Seamer Wind Farm - Hambleton,Wind Onshore,4,Operational
+2836,Fanny House Farm/Heysham Moss,Wind Onshore,1.5,Operational
+2837,Newthorpe Wind Turbine,Wind Onshore,2.5,Operational
+2839,Chelveston Renewable Energy Park Wind Farm (Bedford),Wind Onshore,10,Operational
+2842,Torrance Farm,Wind Onshore,9,Operational
+2845,Land at Overside and Greenwellheads Farms,Wind Onshore,9.2,Operational
+2846,Lancaster University (wind),Wind Onshore,2,Operational
+2847,Myreton Crossroads,Wind Onshore,1.6,Operational
+2849,Auchinderran Wind Farm,Wind Onshore,2.4,Operational
+2850,The Limes Wind Turbines,Wind Onshore,1.7,Operational
+2852,Milton of Fisherie Wind Cluster,Wind Onshore,4.6,Operational
+2853,Blantyre Muir Wind Farm,Wind Onshore,9,Operational
+2857,Lilbourne Wind Farm,Wind Onshore,10,Operational
+2861,Tullo Wind Farm North Extension (Shiels Wind Farm),Wind Onshore,7.5,Operational
+2862,Easter Melrose Wind Energy Project,Wind Onshore,1.5,Operational
+2870,Newton Marsh Wind Project,Wind Onshore,4.6,Operational
+2871,North Pickenham Airfield,Wind Onshore,4,Operational
+2874,Wythegill Wind Turbine,Wind Onshore,2.3,Operational
+2877,Roos Wind Farm (Resubmission),Wind Onshore,17.1,Operational
+2878,Backhill of Yonderton Wind Cluster,Wind Onshore,4.6,Operational
+2879,Spurness Wind Farm Repowering,Wind Onshore,10,Operational
+2882,St Johns Wells Wind Cluster Extension,Wind Onshore,3.2,Operational
+2883,GlaxoSmithKline Wind Project,Wind Onshore,7.5,Operational
+2884,K L Technologies Wind Turbine,Wind Onshore,1.5,Operational
+2887,Coire Na Cloiche Wind Farm,Wind Onshore,29.9,Operational
+2891,Ardoch and Over Enoch Wind Farm (Over Enoch),Wind Onshore,4.3,Operational
+2892,Ystgellog Farm Wind Farm ,Wind Onshore,4.6,Operational
+2893,NEILSTON WIND FARM,Wind Onshore,9.2,Operational
+2894,Greencroft Estate Turbines,Wind Onshore,4,Operational
+2895,Crossness Sewage Works Turbine,Wind Onshore,2.5,Operational
+2904,Muirhall Extension,Wind Onshore,6.8,Operational
+2913,Freasdail Wind Farm,Wind Onshore,22.5,Operational
+2914,Nash Waste Water Treatment Works Turbine,Wind Onshore,2.5,Operational
+2917,Marston Vale Country Park Wind Turbine,Wind Onshore,1.5,Operational
+2920,Energy Works Hull - Wind Turbine,Wind Onshore,3,Operational
+2922,Mynydd Y Gwrhyd Windfarm,Wind Onshore,4.7,Operational
+2923,Severn Trent Water - Stoke Bardolph Wind Turbine,Wind Onshore,1.5,Operational
+2928,Barns of Ayre Wind Turbines (2),Wind Onshore,1.8,Operational
+2930,Newton Down,Wind Onshore,5,Operational
+2931,North Steads Wind Farm ,Wind Onshore,18.45,Operational
+2937,Hill of Tillymorgan (Kirkton Farm) Wind turbines ,Wind Onshore,9.6,Operational
+2941,LADEHEAD FARM - WIND TURBINES,Wind Onshore,2.4,Operational
+2943,Garlenick Estate 2 - Wind Turbines,Wind Onshore,4,Operational
+2944,Goonabarn Farm Wind Turbines,Wind Onshore,1,Operational
+2950,Bloodhills - repowering,Wind Onshore,1,Operational
+2951,Ardoch and Over Enoch Wind Farm (Ardoch),Wind Onshore,7.2,Operational
+2953,Avonmouth Port II,Wind Onshore,5,Operational
+2954,Tween Bridge Windfarm,Wind Onshore,44,Operational
+2957,Mynydd Portref,Wind Onshore,9.4,Operational
+2958,Fforch Nest Wind Farm pt2,Wind Onshore,17.5,Operational
+2959,Wadlow Wind Farm,Wind Onshore,26,Operational
+2960,Bradwell Wind Farm (Repower),Wind Onshore,20,Operational
+2961,Hazlehead,Wind Onshore,6,Operational
+2962,Kiln Pit Hill Windfarm,Wind Onshore,12,Operational
+2965,Otterham Down Wind Farm,Wind Onshore,3.2,Operational
+2966,Sixpenny Wood Windfarm,Wind Onshore,33,Operational
+2967,Earl's Hall,Wind Onshore,10.3,Operational
+2968,Mawdesley Moss,Wind Onshore,2.3,Operational
+2970,Chelveston Renewable Energy Park Wind Farm (East Northamptonshire),Wind Onshore,12.5,Operational
+2971,Bewick Drift,Wind Onshore,2.3,Operational
+2972,Hall Farm Routh,Wind Onshore,24.6,Operational
+2975,Rothes Wind Farm (Extension) (II),Wind Onshore,41.4,Operational
+2977,Fforch Nest Wind Farm pt1,Wind Onshore,10,Operational
+2978,Hampole Wind Farm,Wind Onshore,8,Operational
+2979,Blackstone Edge,Wind Onshore,7.5,Operational
+2982,Marr Windfarm,Wind Onshore,8,Operational
+2983,Nissan Motors Plant Extn,Wind Onshore,2,Operational
+2987,Hill of Fiddes,Wind Onshore,6.9,Operational
+2988,Cotton Farm,Wind Onshore,20,Operational
+2989,Land at Flimby Hall Farm ,Wind Onshore,6.2,Operational
+2993,Carland Cross Wind Farm Repowering,Wind Onshore,20,Operational
+2995,Yelvertoft Wind Farm,Wind Onshore,16,Operational
+2997,Mains of Hatton,Wind Onshore,2.4,Operational
+2998,Whitelee Windfarm Extension Phase 1,Wind Onshore,108,Operational
+2999,Tilbury Docks,Wind Onshore,12,Operational
+3001,Seamer Windfarm - Stockton on Tees,Wind Onshore,6,Operational
+3002,South Sharpley Wind Farm (Revised),Wind Onshore,7.5,Operational
+3003,Armistead Wind Farm,Wind Onshore,12,Operational
+3004,Withernwick,Wind Onshore,18,Operational
+3005,Loch Sminig Wind Project,Wind Onshore,2.7,Operational
+3009,Burton Pidsea (Wadworth Hill) Wind Farm,Wind Onshore,10.2,Operational
+3023,Camster,Wind Onshore,50,Operational
+3025,Bu Farm,Wind Onshore,2.7,Operational
+3026,Drumderg,Wind Onshore,36.8,Operational
+3028,Clyde Wind Farm,Wind Onshore,350,Operational
+3030,Novar Wind Farm (Extension),Wind Onshore,36.8,Operational
+3031,Hill of Towie (Drummuir),Wind Onshore,48,Operational
+3032,Ewe Hill,Wind Onshore,13.8,Operational
+3036,Middlemoor,Wind Onshore,54,Operational
+3038,Baillie Wind Farm,Wind Onshore,52.5,Operational
+3039,Braich Ddu,Wind Onshore,3.9,Operational
+3040,Drone Hill,Wind Onshore,28.6,Operational
+3041,Tangy Wind Farm Extension/Tangy 2,Wind Onshore,6,Operational
+3043,Ray Wind Farm,Wind Onshore,54.4,Operational
+3044,Calliachar,Wind Onshore,32.2,Operational
+3045,Griffin Wind farm,Wind Onshore,156,Operational
+3046,High Pow Farm ,Wind Onshore,3.9,Operational
+3048,St. Johns Hill,Wind Onshore,7.65,Operational
+3049,Blackcraig,Wind Onshore,52.9,Operational
+3050,Fullabrook Down Wind Farm,Wind Onshore,66,Operational
+3051,Little Raith Farm,Wind Onshore,25,Operational
+3056,Pant y wal,Wind Onshore,25,Operational
+3059,Green Rigg,Wind Onshore,36,Operational
+3063,Rosehall Hill Forest Windfarm,Wind Onshore,24.7,Operational
+3064,Bankend Rig,Wind Onshore,14.3,Operational
+3065,Hill of Easterton Extension,Wind Onshore,2,Operational
+3066,Batsworthy Cross,Wind Onshore,18,Operational
+3067,Fallago Rig,Wind Onshore,144,Operational
+3068,Cathkin Braes Wind Farm (Castlemilk),Wind Onshore,3,Operational
+3069,Mynydd y Betws,Wind Onshore,34.5,Operational
+3070,Ark Hill,Wind Onshore,6.4,Operational
+3071,Pentland Road Wind Farm,Wind Onshore,13.8,Operational
+3073,Turncole Wind Farm,Wind Onshore,17.5,Operational
+3074,Derby Sewage Treatment Works,Wind Onshore,5,Operational
+3075,Grange ,Wind Onshore,12.3,Operational
+3076,Goole Fields ll Wind Farm,Wind Onshore,34.9,Operational
+3078,Edintore Wind Farm,Wind Onshore,18,Operational
+3079,Tralorg Wind Farm,Wind Onshore,20,Operational
+3081,Gremista Wind Farm,Wind Onshore,3,Operational
+3082,Common Barn Wind Farm,Wind Onshore,6.2,Operational
+3084,Clentrie Wind Farm (Gevens),Wind Onshore,6.9,Operational
+3089,Kelmarsh Wind Farm (Resubmission),Wind Onshore,12.5,Operational
+3090,Torrance Farm Wind Park Extension,Wind Onshore,5.7,Operational
+3093,Goathill Quarry Turbine,Wind Onshore,2,Operational
+3096,Skeddoway Farm Wind Turbine ,Wind Onshore,1.5,Operational
+3097,Middle Balbeggie Wind Turbines,Wind Onshore,6.4,Operational
+3100,Upper Holton Wind Farm,Wind Onshore,11.5,Operational
+3107,Tallentire Hill,Wind Onshore,12,Operational
+3110,Meikle Carewe ,Wind Onshore,10,Operational
+3111,Andershaw,Wind Onshore,36,Operational
+3112,East Midlands Airport,Wind Onshore,1,Operational
+3113,Kildrummy Windfarm,Wind Onshore,18.4,Operational
+3115,Airfield Farm (Podington) ,Wind Onshore,8.6,Operational
+3117,Dunmaglass Wind Farm,Wind Onshore,94,Operational
+3118,Harestanes,Wind Onshore,136,Operational
+3119,Corriemoillie,Wind Onshore,54.4,Operational
+3120,Hill of Stroupster Windfarm,Wind Onshore,29.9,Operational
+3121,Burn of Whilk,Wind Onshore,22.5,Operational
+3122,Lochluichart,Wind Onshore,51,Operational
+3123,Burnhead,Wind Onshore,26,Operational
+3126,Sneddon Law Community Wind Farm,Wind Onshore,45,Under Construction
+3130,Easter Tolmauds,Wind Onshore,1.6,Operational
+3135,Maerdy,Wind Onshore,24,Operational
+3136,Woodlands Barton Wind Project,Wind Onshore,4.6,Operational
+3137,Westnewton,Wind Onshore,6.2,Operational
+3143,Hare Hill Extension,Wind Onshore,29.8,Operational
+3145,Avonmouth Port - extension,Wind Onshore,9,Operational
+3149,Barmoor South Wind Farm ,Wind Onshore,13.8,Operational
+3150,Winwick,Wind Onshore,12.3,Operational
+3153,Sisters,Wind Onshore,8.2,Operational
+3154,East Youlstone Wind Farm,Wind Onshore,4,Operational
+3155,Hill of Skilmafilly Cloffrickford (Denmore) Wind Farm,Wind Onshore,6.9,Operational
+3157,Heysham South Wind Farm,Wind Onshore,7.5,Operational
+3158,Woolley Hill Wind Farm,Wind Onshore,10,Operational
+3160,Furness Wind Farm/High Winds (Harlock Repowering) ,Wind Onshore,11.5,Operational
+3161,Clyde Wind Farm Extension (Clyde 2),Wind Onshore,172.8,Operational
+3162,Quixwood Moor,Wind Onshore,29.9,Operational
+3167,Auchadaduie Wind Farm,Wind Onshore,6.9,Operational
+3173,Mynydd Brombil Wind Farm,Wind Onshore,8,Operational
+3174,Mynydd Portref Wind Farm extension,Wind Onshore,12,Operational
+3176,Longlands Lane,Wind Onshore,1.5,Operational
+3180,Inverclyde Wind Farm (Corlic Hill),Wind Onshore,24,Operational
+3184,Ryder Point Quarry Wind Turbines,Wind Onshore,5,Operational
+3185,Burton Wold Wind Farm - Northern Extension ,Wind Onshore,14.4,Operational
+3186,Pearie Law Wind Farm,Wind Onshore,19.2,Operational
+3188,Greengairs East Wind Farm,Wind Onshore,24,Operational
+3190,Crystal Rig Wind Farm Phase III,Wind Onshore,13.8,Operational
+3192,Drumduff,Wind Onshore,8.5,Operational
+3196,Rhodders Wind Farm,Wind Onshore,12,Operational
+3198,Harburnhead Wind Farm,Wind Onshore,51.7,Operational
+3200,Dunsland Cross Wind Farm,Wind Onshore,7.5,Operational
+3206,Potato Pot Wind Farm,Wind Onshore,6,Operational
+3208,Millour Hill Community Windfarm (Extension) ,Wind Onshore,6.4,Operational
+3210,Blantyre Muir Wind Farm extension,Wind Onshore,7.5,Operational
+3213,Dorenell Wind Farm (Previously Site A and B Scaut Hill),Wind Onshore,177,Operational
+3214,Earlsburn North (Kingsburn) Wind Farm,Wind Onshore,22.5,Operational
+3215,Wryde Croft,Wind Onshore,26,Operational
+3216,Wandylaw,Wind Onshore,20.5,Operational
+3218,Black Law Extension - 1a,Wind Onshore,48.4,Operational
+3220,Bishopthorpe,Wind Onshore,16.4,Operational
+3224,Keadby Wind Farm,Wind Onshore,68,Operational
+3225,Berry Burn,Wind Onshore,66.7,Operational
+3226,Afton Wind Farm,Wind Onshore,50,Operational
+3227,Tormywheel,Wind Onshore,30.75,Operational
+3229,Den Brook,Wind Onshore,18,Operational
+3232,Dersalloch,Wind Onshore,69,Operational
+3235,Point Wind / Beinn Ghrideag Farm,Wind Onshore,9,Operational
+3242,Muirhall South,Wind Onshore,8.3,Operational
+3249,Double Arches Quarry Wind Turbine,Wind Onshore,1.5,Operational
+3252,Lochend Wind Farm,Wind Onshore,9.2,Operational
+3253,Creag Riabhach Wind Farm,Wind Onshore,90,Operational
+3259,West Benhar wind farm,Wind Onshore,27.2,Operational
+3266,Sorbie Farm,Wind Onshore,9,Under Construction
+3267,Hallburn Farm ,Wind Onshore,13.2,Operational
+3271,Coal Clough Wind Farm Repowering,Wind Onshore,16,Operational
+3275,Shepham Lane ,Wind Onshore,7.5,Operational
+3276,Sober Hill Wind Farm ,Wind Onshore,15,Operational
+3277,Srondoire Community Wind Farm,Wind Onshore,6,Operational
+3278,Achlachan Wind Farm,Wind Onshore,10,Operational
+3279,A'Chruach (Phase 1),Wind Onshore,48.3,Operational
+3280,"Aikengall II, Wester Dod Community Wind Farm",Wind Onshore,60.8,Operational
+3283,Alveston Wind Park,Wind Onshore,6.9,Operational
+3285,Auchrobert Wind Farm,Wind Onshore,36,Operational
+3293,Boardinghouse Wind Farm,Wind Onshore,10.3,Operational
+3294,Bogenlea Farm,Wind Onshore,2.3,Operational
+3296,BROWNIELEYS - 3 WIND TURBINES,Wind Onshore,7.5,Operational
+3298,Cairnborrow ,Wind Onshore,10,Operational
+3299,Camster II,Wind Onshore,36,Under Construction
+3302,Crook Hill (Calderdale MBC) 1 of 2,Wind Onshore,13.6,Operational
+3305,Dell Wind Farm,Wind Onshore,50,Appeal Granted
+3306,Deuchries,Wind Onshore,6.9,Operational
+3307,Dungavel Hill,Wind Onshore,29.9,Operational
+3308,Earlseat,Wind Onshore,18.4,Operational
+3310,Easter Tulloch Wind Farm (Tullo Extension),Wind Onshore,25,Operational
+3313,Galawhistle,Wind Onshore,66,Operational
+3314,Gayton Le Marsh Wind Farm,Wind Onshore,16.4,Operational
+3315,GlaxoSmithKline Wind Project (Turbine 4),Wind Onshore,2.5,Operational
+3316,Glen Kyllachy Wind Farm,Wind Onshore,48.5,Operational
+3318,Goole Fields,Wind Onshore,32.8,Operational
+3319,Greenvale AP Wind Turbine ,Wind Onshore,1.5,Operational
+3322,Hendy Wind Farm,Wind Onshore,14.4,Under Construction
+3325,Hill of Glaschyle Wind Farm,Wind Onshore,27.6,Operational
+3328,Kennoxhead Wind Farm,Wind Onshore,62,Under Construction
+3329,Kilgallioch wind farm,Wind Onshore,239,Operational
+3333,Lambs Hill,Wind Onshore,8,Operational
+3338,Lochluichart (Extension),Wind Onshore,18,Operational
+3342,M1 Wind Farm,Wind Onshore,7.2,Operational
+3345,New Rides Wind Farm,Wind Onshore,8.8,Operational
+3346,Noble Foods,Wind Onshore,1.5,Operational
+3350,Ovenden Moor (Repower) ,Wind Onshore,18,Operational
+3351,Pant y wal extension,Wind Onshore,20,Operational
+3352,Park Spring Wind Farm,Wind Onshore,8.6,Operational
+3353,Brotherton (formerly Paul Matthew Hill wind turbines),Wind Onshore,4.6,Operational
+3354,Pen Bryn Oer Wind Farm,Wind Onshore,4,Operational
+3356,Ramsey Wind Farm Extension,Wind Onshore,8,Operational
+3357,Red Gap Moor Wind Farm,Wind Onshore,12.5,Operational
+3359,Strathy South,Wind Onshore,218.4,Appeal Granted
+3360,Todmorden Moor  ,Wind Onshore,12.3,Operational
+3361,Tom Nan Clach,Wind Onshore,39,Operational
+3363,Tullo Wind Farm South (Ext.),Wind Onshore,10,Operational
+3364,Watford Lodge,Wind Onshore,12.5,Operational
+3365,Wathegar 2 Wind Farm,Wind Onshore,18.5,Operational
+3366,West Browncastle,Wind Onshore,30,Operational
+3370,Brochloch Rig (formerly Windy Standard II),Wind Onshore,90,Operational
+3371,Withernwick extension,Wind Onshore,8.2,Operational
+3373,Pogbie Wind Farm 1,Wind Onshore,5.1,Operational
+3374,Barlockhart Moor,Wind Onshore,8.1,Operational
+3375,Minnygap,Wind Onshore,25,Operational
+3378,Middle Muir Wind Farm,Wind Onshore,51,Operational
+3379,Sanquhar Community Windfarm,Wind Onshore,32.4,Operational
+3382,Balmurrie Fell Wind Farm,Wind Onshore,9.1,Operational
+3386,Solwaybank Wind Farm,Wind Onshore,30,Operational
+3387,Burnfoot Hill Extension,Wind Onshore,4,Operational
+3397,Airies Farm,Wind Onshore,35,Operational
+3399,Craig Wind Farm (Extension),Wind Onshore,2.5,Operational
+3408,Pencloe Wind Farm,Wind Onshore,85.5,Appeal Granted
+3411,Lawrence Landfill,Wind Onshore,1.6,Operational
+3412,Plascow wind cluster ,Wind Onshore,2.4,Operational
+3413,Maesgwyn Wind Farm - extension,Wind Onshore,2.5,Operational
+3420,Halifax Farm,Wind Onshore,1.6,Operational
+3424,Norton Fields Farm,Wind Onshore,1.3,Operational
+3428,Carscreugh Renewable Energy Park,Wind Onshore,15.3,Operational
+3429,Whiteside Hill,Wind Onshore,25.3,Operational
+3433,North Rhins,Wind Onshore,22,Operational
+3436,Jacksbank Wind Farm (Glenbervie),Wind Onshore,6.8,Operational
+3437,New Albion Wind Farm,Wind Onshore,14.4,Operational
+3438,Sunnyside wind cluster,Wind Onshore,1,Operational
+3440,Keith Hill ,Wind Onshore,4.5,Operational
+3441,Minsca,Wind Onshore,36.8,Operational
+3442,Artfield Fell,Wind Onshore,19.5,Operational
+3443,Wether Hill,Wind Onshore,18.2,Operational
+3444,Dalswinton,Wind Onshore,30,Operational
+3448,Craig Wind Farm,Wind Onshore,10,Operational
+3449,Beinn an Tuirc Phase 2,Wind Onshore,43.7,Operational
+3450,Aikengall,Wind Onshore,48,Operational
+3451,Brochloch Rig 1 (formerly Windy Standard),Wind Onshore,21.6,Operational
+3453,Torrs Hill,Wind Onshore,4,Under Construction
+3456,Hawton Wind Farm,Wind Onshore,9,Operational
+3467,Beck Burn ,Wind Onshore,31,Operational
+3475,Clocaenog Forest Wind Farm,Wind Onshore,96,Operational
+3488,Hoprigshiels Community Wind Farm,Wind Onshore,6.9,Operational
+3493,Black Law Extension - 1b,Wind Onshore,15,Operational
+3497,Strathy Wood,Wind Onshore,62.4,Under Construction
+3499,South Kyle Wind Farm,Wind Onshore,240,Under Construction
+3503,Aikengall IIa Community Wind Farm,Wind Onshore,81.7,Operational
+3505,Glen App,Wind Onshore,22,Operational
+3507,Pen Y Cymoedd,Wind Onshore,228,Operational
+3509,Stronelairg Wind Farm,Wind Onshore,227.7,Operational
+3510,M1 J18 Wind Turbines,Wind Onshore,4,Operational
+3511,Tullymurdoch Wind Farm,Wind Onshore,14.4,Operational
+3512,Penmanshiel Wind Farm,Wind Onshore,28.7,Operational
+3513,Kinegar Quarry ,Wind Onshore,5,Operational
+3516,St. Breock Re-Power ,Wind Onshore,10,Operational
+3517,Blary Hill Wind Farm,Wind Onshore,35,Under Construction
+3526,Windy Standard III Wind Farm (Brockloch Rig Phase 2),Wind Onshore,80.8,Appeal Granted
+3529,Carraig Gheal,Wind Onshore,46,Operational
+3530,Langhope Rig,Wind Onshore,16,Operational
+3532,Clashindarroch ,Wind Onshore,37,Operational
+3533,Galsworthy Wind Park,Wind Onshore,9.2,Operational
+3534,Strathy North,Wind Onshore,67.7,Operational
+3536,Mid Hill - Phase II,Wind Onshore,18.4,Operational
+3537,Kype Muir Wind Farm Extension,Wind Onshore,75,Under Construction
+3538,Monan Hill Wind Turbines,Wind Onshore,1.5,Operational
+3541,Crossdykes,Wind Onshore,48,Operational
+3543,Halsary Wind Farm,Wind Onshore,34,Operational
+3544,French Farm,Wind Onshore,4,Operational
+3545,Glenchamber Wind Farm,Wind Onshore,27.5,Operational
+3547,Bhlaraidh (previously Balmacaan),Wind Onshore,110,Operational
+3549,Moor House Wind Farm ,Wind Onshore,12,Operational
+3550,Kype Muir Wind Farm,Wind Onshore,88.4,Operational
+3551,Llynfi Afan Renewable Energy Park,Wind Onshore,6,Operational
+3552,Assel Valley Wind Farm,Wind Onshore,25,Operational
+3553,Bad a Cheo Wind Farm,Wind Onshore,26.7,Operational
+3554,Fraisthorpe Wind Farm,Wind Onshore,29.7,Operational
+3555,Mynydd Y Gwair Wind Farm ,Wind Onshore,32.8,Operational
+3556,Jack's Lane Wind Farm,Wind Onshore,13.8,Operational
+3557,Denzell Downs Wind Farm,Wind Onshore,10,Operational
+3558,Reaps Moss Wind Farm ,Wind Onshore,10.2,Operational
+3559,"Llynfi Renewable Energy Park, Land at Mynydd Caerau",Wind Onshore,24,Operational
+3560,Chiplow,Wind Onshore,8.2,Operational
+3561,Hook Moor,Wind Onshore,10.3,Operational
+3562,Crook Hill (Rochdale MBC) 2 of 2,Wind Onshore,23.8,Operational
+3563,Far Marsh Farm ,Wind Onshore,7.5,Operational
+3564,Wear Point,Wind Onshore,8.2,Operational
+3565,Middlewick wind farm,Wind Onshore,20.7,Operational
+3566,Corriegarth,Wind Onshore,69.5,Operational
+3567,Carsington Pasture,Wind Onshore,8,Operational
+3568,Langford Wind Farm,Wind Onshore,20,Operational
+3569,Mid Hill I,Wind Onshore,57.5,Operational
+3570,Ardrossan Extension,Wind Onshore,6,Operational
+3571,Beinn Tharsuinn Windfarm Project,Wind Onshore,29.8,Operational
+3572,Blaengwen ,Wind Onshore,23,Operational
+3573,Boyndie Airfield,Wind Onshore,16.7,Operational
+3574,Burton Wold Windfarm,Wind Onshore,20,Operational
+3575,Edinbane Wind Farm,Wind Onshore,41.4,Operational
+3576,Fairburn,Wind Onshore,43,Operational
+3577,Farr Wind Farm,Wind Onshore,92,Operational
+3578,Ffynnon Oer Wind Farm,Wind Onshore,32,Operational
+3579,Flotta,Wind Onshore,1.8,Operational
+3580,Forss Wind Farm (Extension),Wind Onshore,5.2,Operational
+3581,Michelin Tyre Co Ltd - Dundee,Wind Onshore,4,Operational
+3582,Millennium Windfarm,Wind Onshore,40,Operational
+3583,Muirhall,Wind Onshore,12.3,Operational
+3584,Mynydd Clogau Wind Farm,Wind Onshore,14.5,Operational
+3585,New Barn Farm,Wind Onshore,4.5,Operational
+3586,North Pickenham,Wind Onshore,14.4,Operational
+3587,Paul's Hill and Extension,Wind Onshore,65,Operational
+3588,Tir Mostyn And Foel Goch Wind Farm,Wind Onshore,21.3,Operational
+3589,Trimdon Grange,Wind Onshore,5.2,Operational
+3590,Wardlaw Wood,Wind Onshore,18,Operational
+3593,East Midlands Distribution Centre,Solar Photovoltaics,6.1,Operational
+3599,Land at High Point Farm,Solar Photovoltaics,4.5,Operational
+3601,Land at Newlands Farm,Solar Photovoltaics,5,Operational
+3603,Eckland Lodge Farm,Solar Photovoltaics,2.9,Operational
+3604,Caddington Solar Farm (Phase 2),Solar Photovoltaics,5,Operational
+3605,Ceannacroc ,Small Hydro,1.6,Operational
+3609,Montys Farm,Solar Photovoltaics,5,Operational
+3610,Merston Solar Park,Solar Photovoltaics,10,Operational
+3613,Fambridge Road/Canewdon Road,Solar Photovoltaics,5,Operational
+3616,Roskrow Farm,Solar Photovoltaics,8.9,Operational
+3620,Hale Farm,Solar Photovoltaics,8,Operational
+3622,Pylle Southern solar park (Lower Easton Farm),Solar Photovoltaics,5,Operational
+3624,Land at Darran Farm,Solar Photovoltaics,2.6,Operational
+3626,Wisbech Solar Farm,Solar Photovoltaics,3.5,Operational
+3627,Stow Solar Farm,Solar Photovoltaics,10.2,Operational
+3628,Rhug Estate,Solar Photovoltaics,1.2,Operational
+3629,Snettisham Solar Farm,Solar Photovoltaics,2.7,Operational
+3630,West Hill Farm,Solar Photovoltaics,2.4,Operational
+3635,Cold Harbour Farm,Solar Photovoltaics,5,Operational
+3637,Southrigg,Wind Onshore,1.5,Operational
+3638,Land at Whatton Road,Solar Photovoltaics,1.5,Operational
+3640,Upper Wick Solar Farm,Solar Photovoltaics,5,Operational
+3641,Marshwood Farm,Solar Photovoltaics,1.8,Operational
+3642,House O’Hill Solar Farm,Solar Photovoltaics,1.6,Operational
+3645,Hawkers Farm ,Solar Photovoltaics,9.5,Operational
+3648,Woodtown Farm,Solar Photovoltaics,3.8,Operational
+3651,Land at Tangmere Airfield,Solar Photovoltaics,5,Operational
+3652,Land at Coton Park Colliery,Solar Photovoltaics,2.5,Operational
+3654,Chapel Farm,Solar Photovoltaics,5,Operational
+3659,Cairnmore Solar Park,Solar Photovoltaics,3.8,Operational
+3661,Bake Farm Solar Farm,Solar Photovoltaics,5,Operational
+3663,Thompson House Equestrian farm,Solar Photovoltaics,5,Operational
+3666,Kingspan,Wind Onshore,1.8,Operational
+3668,Red Hill Farm,Solar Photovoltaics,4.8,Operational
+3670,Stoneshill Farm ,Solar Photovoltaics,5,Operational
+3672,Bruach Caorainn Hydro Scheme,Small Hydro,1.1,Operational
+3675,Carlam Hill Education CIC,Solar Photovoltaics,5,Operational
+3681,Binn Eco Park - Wind Farm,Wind Onshore,10,Operational
+3686,Caldecote Manor Farm,Solar Photovoltaics,5,Operational
+3688,Crundale / Fenton Home Farm (extension),Solar Photovoltaics,5.9,Operational
+3689,Fieldscale,Solar Photovoltaics,10.6,Operational
+3692,Iwade Solar Farm,Solar Photovoltaics,1.7,Operational
+3693,Kingsland Barton Solar Farm ,Solar Photovoltaics,5,Operational
+3694,Lee Moor China Clay Works,Solar Photovoltaics,9.5,Operational
+3695,Littleton,Solar Photovoltaics,12.1,Operational
+3696,Lount solar farm,Solar Photovoltaics,2.8,Operational
+3698,New Mains Of Guynd Farm,Solar Photovoltaics,10,Operational
+3699,Orchard Farm,Solar Photovoltaics,10,Operational
+3701,Salford Lodge,Solar Photovoltaics,5,Operational
+3702,The Grange,Solar Photovoltaics,8,Operational
+3703,Thorne Farm,Solar Photovoltaics,5,Operational
+3704,Tiddiecross Solar Farm,Solar Photovoltaics,10.5,Operational
+3705,Tooleys Farm,Solar Photovoltaics,5.3,Operational
+3706,Trickey Warren,Solar Photovoltaics,4.8,Operational
+3707,Twemlows,Solar Photovoltaics,10,Operational
+3708,Tyddyn Cae (Nefyn),Solar Photovoltaics,4.9,Operational
+3711,Abbots Ann,Solar Photovoltaics,7,Operational
+3715,Margate Solar Farm,Solar Photovoltaics,3,Operational
+3717,Laceby Solar Farm,Solar Photovoltaics,27.1,Operational
+3718,Dolgarrog,Large Hydro,32,Operational
+3719,Cwm Dyli,Large Hydro,9.9,Operational
+3720,Kielder,Large Hydro,6.1,Operational
+3721,Land East of White Horse Lane,Solar Photovoltaics,5,Operational
+3723,Westfield Farm,Solar Photovoltaics,5,Operational
+3725,West Woodlands ,Solar Photovoltaics,5,Operational
+3727,Mendennick Farm ,Solar Photovoltaics,2.8,Operational
+3728,Gawnsmoss Cluster,Wind Onshore,2.4,Operational
+3731,Cockett Valley,Solar Photovoltaics,4,Operational
+3732,Rampisham North,Solar Photovoltaics,5,Operational
+3733,Severn Road Solar Park,Solar Photovoltaics,1.8,Operational
+3736,Moorhouse Farm,Solar Photovoltaics,5,Operational
+3741,Quarrendon Fields,Wind Onshore,1.5,Operational
+3742,Llyn Celyn ,Small Hydro,4.5,Operational
+3743,Caban Coch,Small Hydro,1.1,Operational
+3745,Land at Sutor Farm,Solar Photovoltaics,5,Operational
+3746,Newstead and Annesley Wind Turbine ,Wind Onshore,1.5,Operational
+3756,Land North East Of Penrose Far,Solar Photovoltaics,1.5,Operational
+3757,Land At Ferry Farm,Solar Photovoltaics,10,Operational
+3758,Land at Brookbarn Farm,Solar Photovoltaics,3,Operational
+3760,Field at School Aycliffe Lane,Solar Photovoltaics,5,Operational
+3761,Capel Grange Solar Park,Solar Photovoltaics,6.6,Operational
+3763,Pentre farm,Solar Photovoltaics,5.5,Operational
+3764,Land At Rymes Farm (Phase 1),Solar Photovoltaics,6.9,Operational
+3765,Llancadle Farm,Solar Photovoltaics,5,Operational
+3766,Land At Rymes Farm (Phase 2)/Grange Solar Farm,Solar Photovoltaics,6.8,Operational
+3768,Trowle Common,Solar Photovoltaics,5,Operational
+3770,Canopus Farm,Solar Photovoltaics,5,Operational
+3771,Land At Guston Court Farm,Solar Photovoltaics,5,Operational
+3781,Pressock Farm,Solar Photovoltaics,5,Operational
+3784,Beckton Sewage Treatment Works,Wind Onshore,2.2,Operational
+3788,Rufford Lane,Solar Photovoltaics,2.6,Operational
+3789,Land to the north and south of Cakers Lane (Wilsom),Solar Photovoltaics,11,Operational
+3791,Kirk Hill Wind Farm,Wind Onshore,18.8,Under Construction
+3792,Collacott Farm,Solar Photovoltaics,4.5,Operational
+3796,Tonedale Farm,Solar Photovoltaics,5,Operational
+3797,Melton Waste Park ,Wind Onshore,5,Operational
+3798,Lindridge Farm,Solar Photovoltaics,5,Operational
+3799,Abbots Ripton Solar Farm (ext.),Solar Photovoltaics,3.9,Operational
+3800,Fleetwood Water Treatment Works,Solar Photovoltaics,1.3,Operational
+3801,Triangle Solar Farm Park,Solar Photovoltaics,12,Operational
+3803,Land at Lower House Farm,Solar Photovoltaics,8.1,Operational
+3805,Aldi Distribution Centre,Solar Photovoltaics,1.3,Operational
+3807,Bromfield Sand and Gravel,Solar Photovoltaics,0.5,Operational
+3808,Land at Heywood Grange,Solar Photovoltaics,8.4,Operational
+3810,Ravens Close,Solar Photovoltaics,5,Operational
+3811,Forest Farm,Solar Photovoltaics,3,Operational
+3812,Land West of Roberts Wall Far,Solar Photovoltaics,2.5,Operational
+3813,Drayton Manor Farm,Solar Photovoltaics,25,Operational
+3815,Somersal Mill Farm,Solar Photovoltaics,2.6,Operational
+3819,Land Opposite Tyn Y Pistyll,Solar Photovoltaics,5,Operational
+3823,Land South of Highfield House,Solar Photovoltaics,5,Operational
+3826,Rhewl Farm,Solar Photovoltaics,6,Operational
+3834,Land at Dayfields Farm,Solar Photovoltaics,4.7,Operational
+3837,MMD Shipping Services,Solar Photovoltaics,1.2,Operational
+3840,Newton Margate,Solar Photovoltaics,1.5,Operational
+3841,Eveley Farm ,Solar Photovoltaics,49,Operational
+3844,Court Farm ,Solar Photovoltaics,8.5,Operational
+3846,Green Farm,Solar Photovoltaics,5,Operational
+3847,Home Farm,Solar Photovoltaics,6.7,Operational
+3849,Land at Thornborough Grounds,Solar Photovoltaics,5,Operational
+3850,Port of Barry  - Site 1,Solar Photovoltaics,4.5,Operational
+3853,Southern Counties Shooting Ground Phase 1 ,Solar Photovoltaics,9,Operational
+3855,Fanny House Farm,Solar Photovoltaics,5,Operational
+3856,Chard Solar Park,Solar Photovoltaics,3,Operational
+3857,Home Farm,Solar Photovoltaics,3,Operational
+3859,Marshborough Farm solar park ,Solar Photovoltaics,5,Operational
+3860,Fiskerton Airfield (Phase 2),Solar Photovoltaics,22,Operational
+3861,"Langley Priory, Walnut Yard (Phase 2)",Solar Photovoltaics,6.2,Operational
+3864,Eascairt Wind Farm,Wind Onshore,26,Appeal Granted
+3865,Bluegates Solar Park,Solar Photovoltaics,10.5,Operational
+3867,Land To The East Of Back Lane,Solar Photovoltaics,5,Operational
+3869,Axe View Solar Farm,Solar Photovoltaics,5,Operational
+3870,Land at Fell View Farm (Phase 1),Solar Photovoltaics,4.2,Operational
+3872,South of Henley Hall,Solar Photovoltaics,5,Operational
+3873,Place Barton Farm,Solar Photovoltaics,4.9,Operational
+3874,Lower Stanley Farm,Solar Photovoltaics,4,Operational
+3875,Land Parcel North of Goddards,Solar Photovoltaics,5,Operational
+3876,"Ld At Lawrence End Park &, Dane Street",Solar Photovoltaics,5,Operational
+3877,"Gravel Works, Wasing Estate",Solar Photovoltaics,5,Operational
+3879,Drakelow Solar Farm,Solar Photovoltaics,5,Operational
+3880,Land at Five Oaks Farm,Solar Photovoltaics,5,Operational
+3881,Knolton Farmhouse Cheese Solar Farm,Solar Photovoltaics,1,Operational
+3882,Blakenhall Park Solar Farm,Solar Photovoltaics,1.8,Operational
+3883,Grantham Solar Farm,Solar Photovoltaics,5,Operational
+3884,Agricultural Land at Trecastle,Solar Photovoltaics,4,Operational
+3886,Sharland Solar Farm,Solar Photovoltaics,2.8,Operational
+3888,Short Hazel Solar Farm,Solar Photovoltaics,5,Operational
+3889,Mill Hill Farm,Solar Photovoltaics,5,Operational
+3890,"Little Irchester, Higham Road Solar Farm",Solar Photovoltaics,4.6,Operational
+3893,Land North of Chiltern Greeen,Solar Photovoltaics,5,Operational
+3894,Bilsborrow Solar Farm,Solar Photovoltaics,5,Operational
+3895,Hill Farm,Solar Photovoltaics,5,Operational
+3896,Padleywood Farm,Solar Photovoltaics,5,Operational
+3897,Pant y Maen,Wind Onshore,14,Appeal Granted
+3898,Tiln Farm Retford (extension),Solar Photovoltaics,1.7,Operational
+3899,Tower Hayes Farm,Solar Photovoltaics,5,Operational
+3900,Sheriffhales Solar Farm,Solar Photovoltaics,8.2,Operational
+3906,Land Adjacent Claypits Farm (a),Solar Photovoltaics,5,Operational
+3907,Land Adjacent Claypits Farm (b) (Birch Estate),Solar Photovoltaics,2.3,Operational
+3909,Hill of Lybster (Wind Turbine - Extension),Wind Onshore,1.5,Operational
+3910,Costa Head Wind Farm,Wind Onshore,16.3,Appeal Granted
+3911,Fferm Bryn Bachau,Solar Photovoltaics,4.4,Operational
+3912,Golticlay Wind Farm,Wind Onshore,64.6,Appeal Granted
+3914,Hesta Head Wind Farm,Wind Onshore,20.4,Appeal Granted
+3915,Scottow Moor - RAF Coltishall Solar Farm (Phase 2),Solar Photovoltaics,17.9,Operational
+3917,West Carclaze Solar Farm,Solar Photovoltaics,6.5,Operational
+3918,Flixborough Industrial Estate,Solar Photovoltaics,5,Operational
+3920,Land adjacent to Church Road,Solar Photovoltaics,3.5,Operational
+3924,Lady Hole Farm,Solar Photovoltaics,3,Operational
+3925,Bransholme Solar CIC,Solar Photovoltaics,5,Operational
+3927,Land at Christ’s Hospital School,Solar Photovoltaics,1.1,Operational
+3930,Creswell Solar Park ,Solar Photovoltaics,5,Operational
+3931,Pollington Solar Farm,Solar Photovoltaics,5,Operational
+3932,Land NW Of Pickhill Bridge Farm,Solar Photovoltaics,3.6,Operational
+3935,Moneystone Quarry Solar Farm,Solar Photovoltaics,5,Operational
+3936,Pingry Farm - Phase 2,Solar Photovoltaics,3.4,Operational
+3937,Kenninghall Solar / Hazeldick Solar,Solar Photovoltaics,8,Operational
+3938,Wogaston Solar Farm,Solar Photovoltaics,5.3,Operational
+3939,Crugmore Farm,Solar Photovoltaics,6.4,Operational
+3940,Rydon Farm,Solar Photovoltaics,12,Operational
+3941,"Solar farm at land at The Willows, Uttoxeter",Solar Photovoltaics,6.4,Operational
+3942,Highwood Lane,Solar Photovoltaics,5,Operational
+3943,Yorkley Solar Park,Solar Photovoltaics,5,Operational
+3944,Solar Farm at Fields Farm (Phase 1),Solar Photovoltaics,5,Operational
+3946,Land at Beech Farm,Solar Photovoltaics,4.6,Operational
+3947,West Holcombe,Solar Photovoltaics,5.5,Under Construction
+3948,Aberporth Solar Farm,Solar Photovoltaics,1.5,Operational
+3949,Hoplass Farm,Solar Photovoltaics,10,Operational
+3950,Chelveston Renewable Energy Park - Solar Extension,Solar Photovoltaics,19.5,Operational
+3951,Grove Solar Park (Phase 1),Solar Photovoltaics,5,Operational
+3953,Fell View Farm (Phase 2),Solar Photovoltaics,2.9,Operational
+3954,Land At Chiddinglye Farm,Solar Photovoltaics,5,Operational
+3955,Land of coal pit lane,Solar Photovoltaics,5,Operational
+3956,Huntingfield Solar Farm,Solar Photovoltaics,4.4,Operational
+3957,Astley Solar Farm,Solar Photovoltaics,5,Operational
+3958,Majors Hill/Turners Hill Solar Farm,Solar Photovoltaics,1.1,Operational
+3961,Land South Of Bryn Cyrnau Isaf,Solar Photovoltaics,5.9,Operational
+3963,Ashby Solar Farm (a),Solar Photovoltaics,5,Operational
+3966,Cirencester Solar Farm,Solar Photovoltaics,23,Operational
+3967,Burton Wold Wind Farm South,Wind Onshore,7.5,Operational
+3972,Land South of Knock Lane,Solar Photovoltaics,4,Operational
+3975,Land south of Brick Kiln Road,Solar Photovoltaics,5,Operational
+3977,Averhill Farm,Solar Photovoltaics,5,Operational
+3978,Morton House (Marchington),Solar Photovoltaics,6.2,Operational
+3979,Biglis Farm,Solar Photovoltaics,5,Operational
+3980,Milborne Port Solar Farm,Solar Photovoltaics,4.2,Operational
+3982,Land At Cwm Bargoed,Solar Photovoltaics,5,Operational
+3983,Land South Off Ollerton Road,Solar Photovoltaics,4.2,Operational
+3985,Land At Swanland Road,Solar Photovoltaics,5,Operational
+3986,Rookery Business Park,Solar Photovoltaics,5,Operational
+3987,Land North of Sandhutton Lane,Solar Photovoltaics,5,Operational
+3991,"Land West Of Hunger Hill Farm
+",Solar Photovoltaics,5,Operational
+3992,Land East Of Honeysome Road,Solar Photovoltaics,4.6,Operational
+3993,Salford Road Solar Farm ,Solar Photovoltaics,2.2,Operational
+3995,Ld NW Of Ratcliffe House Farm,Solar Photovoltaics,3.5,Operational
+3997,"Land at Woodhouse Farm           
+",Solar Photovoltaics,5,Operational
+3998,"Parklands         
+",Solar Photovoltaics,4.6,Operational
+4000,Amcor Flexibles,Solar Photovoltaics,1.7,Operational
+4003,Waterditch Solar Farm,Solar Photovoltaics,18,Operational
+4004,Land Off Ingarsby Lane,Solar Photovoltaics,2.1,Operational
+4008,Nissan Test Track,Solar Photovoltaics,4.8,Operational
+4009,Cooper House Farm,Solar Photovoltaics,5,Operational
+4010,Land at Pollington Airfield,Solar Photovoltaics,5,Operational
+4012,"Land at Poles Hole Farm     
+",Solar Photovoltaics,6.8,Operational
+4016,"Staining Wood Farm
+",Solar Photovoltaics,4.9,Operational
+4018,"Land between Orton Park Farm    
+",Solar Photovoltaics,6.4,Operational
+4019,"Site To North East Of, Lochcraigs Farm
+",Solar Photovoltaics,5,Operational
+4020,"West Mains of Kinblethmont 
+",Solar Photovoltaics,5,Operational
+4023,"Land West Side of Axe and Cleaver Lane 
+",Solar Photovoltaics,5,Operational
+4027,"Land To The North Of Moor Farm       
+",Solar Photovoltaics,3.8,Operational
+4028,Henley Solar Farm,Solar Photovoltaics,6.5,Operational
+4034,Crown Farm,Solar Photovoltaics,6,Operational
+4036,Eaglescliffe Solar Farm,Solar Photovoltaics,5,Operational
+4037,Tyddyn Gwyn (Gelli Gron Farm),Solar Photovoltaics,3.8,Operational
+4038,Thornton Lane,Solar Photovoltaics,2.7,Operational
+4039,Aborfield Solar Park,Solar Photovoltaics,14,Under Construction
+4040,Lurg Hill Wind Farm,Wind Onshore,15,Appeal Granted
+4043,Penycae Solar Farm,Solar Photovoltaics,5,Operational
+4044,Land at Ingles Hill Farm,Solar Photovoltaics,3,Operational
+4046,"Southbrook Solar Farm                
+",Solar Photovoltaics,5,Operational
+4047,Green Croft Solar Farm,Solar Photovoltaics,5,Operational
+4048,Upper Pant-Ysgawen Farm/Crumlin,Solar Photovoltaics,4.9,Operational
+4050,Land at Oxcroft Stocking Ground,Solar Photovoltaics,1.2,Operational
+4051,West Strathore Solar Limited,Solar Photovoltaics,5,Operational
+4052,Land at Meadow Farm,Solar Photovoltaics,5,Operational
+4054,Hungerford Farm,Solar Photovoltaics,5,Operational
+4056,Land at Morfa Camp,Solar Photovoltaics,2.8,Operational
+4057,Land South of Pogmore Spinney,Solar Photovoltaics,5,Operational
+4059,Douglas West and Dalquhandy Renewable Energy Project,Wind Onshore,49,Under Construction
+4060,Abbey Fields Farm,Solar Photovoltaics,5.3,Operational
+4061,Ernesettle Solar Farm,Solar Photovoltaics,4.1,Operational
+4062,SPF Thirty Acres Farm,Solar Photovoltaics,3.8,Operational
+4063,Killan Farm Solar Array Extens,Solar Photovoltaics,1,Operational
+4064,Land East of Appleton Farm,Solar Photovoltaics,5,Operational
+4065,Land At Debdale Lane,Solar Photovoltaics,5,Operational
+4066,Land at Ash Row Farm,Solar Photovoltaics,5,Operational
+4067,Land at Stripe Farm,Solar Photovoltaics,5,Operational
+4068,Land at Bolsover Moor Quarry,Solar Photovoltaics,5,Operational
+4070,Land To The North Of Dairy House Farm,Solar Photovoltaics,3.4,Operational
+4071,Pennington Recycling Centre,Solar Photovoltaics,1.2,Operational
+4074,Goosehall Solar Farm,Solar Photovoltaics,39.5,Operational
+4075,Land west of Welton Road,Solar Photovoltaics,4.4,Operational
+4078,Twin Yards Solar Farm,Solar Photovoltaics,5,Operational
+4080,River Coiltie Hydro Scheme,Small Hydro,1.9,Operational
+4081,Hull Solar Farm,Solar Photovoltaics,25.7,Under Construction
+4085,Land of Green Lane,Solar Photovoltaics,5.8,Operational
+4086,Land At  Actrees Farm,Solar Photovoltaics,5,Operational
+4088,Land at Bowden Lane,Solar Photovoltaics,5,Operational
+4089,Land at Stalbridge Park,Solar Photovoltaics,5,Operational
+4090,Frog's Loke Solar Farm,Solar Photovoltaics,5,Operational
+4091,Staughton Airfield Solar Farm,Solar Photovoltaics,40,Under Construction
+4092,Over Farm,Solar Photovoltaics,9.9,Appeal Granted
+4096,Manmoel Road Solar Park,Solar Photovoltaics,4.1,Operational
+4097,Huntspill Level Solar Park,Solar Photovoltaics,5.5,Operational
+4099,Land at Box Road,Solar Photovoltaics,2.2,Operational
+4100,Low Farm Solar Array,Solar Photovoltaics,20,Operational
+4102,Land south of Wood Lane (Safeguard Bradwell),Solar Photovoltaics,5,Operational
+4104,Newton Downs Farm,Solar Photovoltaics,5,Operational
+4106,Bunn's Hill Solar Park,Solar Photovoltaics,5,Operational
+4108,Cumberhead Wind Farm,Wind Onshore,48,Operational
+4114,Rushmoor Lane Farm (Cheshire Coppice),Solar Photovoltaics,5,Operational
+4117,Fullenton Solar Farm,Solar Photovoltaics,4.2,Operational
+4120,Cwm Derwyn Farm,Solar Photovoltaics,5,Operational
+4121,Land to the west of Ashfordby Business Park,Solar Photovoltaics,3.5,Operational
+4123,Glebe Farm Solar Farm ,Solar Photovoltaics,32,Operational
+4125,York Solar Farm,Solar Photovoltaics,34.7,Operational
+4126,Land Off Folly Lane,Solar Photovoltaics,5,Operational
+4128,Land At Bake Farm,Solar Photovoltaics,5,Operational
+4129,Land To The South Of Todderstaffe,Solar Photovoltaics,4.5,Operational
+4130,Strettington Solar Farm,Solar Photovoltaics,5,Operational
+4131,Cressing Solar Farm (Phase 1),Solar Photovoltaics,5,Operational
+4132,Land north of Ashton Road,Solar Photovoltaics,4,Operational
+4133,Parc Cynog,Solar Photovoltaics,5,Operational
+4134,Albrighton Solar farm,Solar Photovoltaics,15.8,Operational
+4136,Clapton Farm Solar Park,Solar Photovoltaics,5,Operational
+4139,Galton Manor Solar Park,Solar Photovoltaics,5,Operational
+4140,Wormit Solar Farm,Solar Photovoltaics,4,Operational
+4147,The Breck,Solar Photovoltaics,5,Operational
+4150,North Tenement,Solar Photovoltaics,5,Operational
+4151,Cwrt Henllys Farm,Solar Photovoltaics,5,Operational
+4152,Land at Wreay,Solar Photovoltaics,5,Operational
+4154,Common Farm,Solar Photovoltaics,4.8,Operational
+4155,Fields Farm (Agden),Solar Photovoltaics,5,Operational
+4156,Land at Hill Farm,Solar Photovoltaics,1.2,Operational
+4157,Land to North West of Lodge Farm (Park Farm),Solar Photovoltaics,4,Operational
+4158,Seaton Road Solar Farm,Solar Photovoltaics,4,Operational
+4160,Land at Tip Field,Solar Photovoltaics,5,Under Construction
+4161,Wick Lane Solar Ltd,Solar Photovoltaics,2.8,Operational
+4162,Otherton Farm,Solar Photovoltaics,4,Operational
+4164,Nanthenfoel Farms,Solar Photovoltaics,5,Operational
+4166,New Road Solar Farm,Solar Photovoltaics,5,Under Construction
+4168,Land at Green Farm,Solar Photovoltaics,1,Operational
+4170,West Venn Solar Farm ,Solar Photovoltaics,5,Operational
+4171,Corntown Farm,Solar Photovoltaics,3.4,Operational
+4174,Wally Corner Landfill Site,Solar Photovoltaics,7,Operational
+4177,Land North of the Wood at Averill Farm,Solar Photovoltaics,5,Operational
+4178,ANP Newport Wind Turbine,Wind Onshore,2.3,Operational
+4181,Sudforth Lane (Kellingley Solar Farm),Solar Photovoltaics,5,Operational
+4182,Berthlwyd Farm,Solar Photovoltaics,5,Operational
+4184,Pinguin Foods,Solar Photovoltaics,1.5,Operational
+4189,Land East of Lawn Lane,Solar Photovoltaics,5,Operational
+4193,Land off Ford Lane,Solar Photovoltaics,4.7,Operational
+4195,Sulhamstead Solar Field - Stud Farm,Solar Photovoltaics,5,Appeal Granted
+4198,Woodhouse Fields Farm,Solar Photovoltaics,5,Operational
+4199,Land off Hooklands Lane,Solar Photovoltaics,5,Operational
+4202,High Dyke (Mill Farm),Solar Photovoltaics,5,Operational
+4203,Land West of Parsonage Wood,Solar Photovoltaics,4.2,Operational
+4209,Land at Oldstone Farm,Solar Photovoltaics,5,Operational
+4211,Shortheath Solar Park,Solar Photovoltaics,5,Operational
+4212,Land at Oxcroft Stocking Ground,Solar Photovoltaics,3,Operational
+4213,Holtwood Farm,Solar Photovoltaics,5,Operational
+4214,Carn Nicholas Farm,Solar Photovoltaics,5,Under Construction
+4217,Nectar Way Regional Distribution Centre,Solar Photovoltaics,1,Operational
+4218,Brenig Wind Farm,Wind Onshore,37.6,Operational
+4219,Gib Lane Solar farm (Extension),Solar Photovoltaics,5,Operational
+4220,Land east of Littledown Business Park,Solar Photovoltaics,6.2,Operational
+4222,Lyreco - Telford Distribution Centre,Solar Photovoltaics,3.8,Operational
+4223,Long Lane Solar Farm  / Nottingham Brick Works,Solar Photovoltaics,17,Under Construction
+4224,Port of Barry  - Site 2,Solar Photovoltaics,5,Operational
+4237,Holly Farm Solar Park,Solar Photovoltaics,5,Operational
+4238,Worsted Farm,Solar Photovoltaics,5,Operational
+4242,Pogbie Wind Farm 2,Wind Onshore,4.8,Operational
+4245,Basin Bridge Farm,Solar Photovoltaics,5,Operational
+4252,Land at East Farm,Solar Photovoltaics,5,Operational
+4255,B&Q Swindon DC,Solar Photovoltaics,2.5,Operational
+4256,Stragglethorpe Road farm,Solar Photovoltaics,5,Operational
+4258,Land at Bluehouse Farm,Solar Photovoltaics,5,Operational
+4260,Potters Bar Solar Farm,Solar Photovoltaics,5,Operational
+4264,Stob House Farm,Solar Photovoltaics,4.9,Operational
+4268,Granville Road Solar Farm,Solar Photovoltaics,5,Operational
+4279,Mamhilad Solar Farm,Solar Photovoltaics,5,Operational
+4281,Hyde Farm,Solar Photovoltaics,5,Operational
+4282,Lower Venn Farm,Solar Photovoltaics,5,Operational
+4283,Littlewood Lane Solar,Solar Photovoltaics,5,Operational
+4288,Peterlee Solar Farm,Solar Photovoltaics,5,Operational
+4305,Land On The East Side Of Fosse Way,Solar Photovoltaics,10,Operational
+4306,Stockton Court farm,Solar Photovoltaics,5,Appeal Granted
+4312,Briar Solar Farm,Solar Photovoltaics,1.9,Operational
+4315,Bent Spur Solar Farm,Solar Photovoltaics,5,Operational
+4326,Blaby Solar Farm,Solar Photovoltaics,3.5,Operational
+4332,Bilsthorpe (Land off Forest Lane),Solar Photovoltaics,5,Operational
+4345,Godley Water Treatment Works,Solar Photovoltaics,3,Operational
+4354,Park Farm,Solar Photovoltaics,5,Operational
+4358,Greaves Solar Farm,Solar Photovoltaics,5,Operational
+4359,Balhearty Solar,Solar Photovoltaics,5,Operational
+4360,Weddington Farm,Solar Photovoltaics,2.1,Operational
+4361,Middle Balbeggie,Solar Photovoltaics,5,Operational
+4386,Widehurst Farm,Solar Photovoltaics,5,Operational
+4389,Screwfix Direct,Solar Photovoltaics,2.5,Operational
+4390,Land at Biggin Lane,Solar Photovoltaics,5,Operational
+4392,Land at Barnham,Solar Photovoltaics,1,Operational
+4393,Ebnal Lodge ,Solar Photovoltaics,5,Operational
+4394,Southill Solar ,Solar Photovoltaics,4.5,Operational
+4397,"Carver Hay, moss lane",Solar Photovoltaics,2.5,Operational
+4403,Hownsgill Industrial Park,Solar Photovoltaics,5,Under Construction
+4404,Bruxiehall Farm,Solar Photovoltaics,2,Under Construction
+4407,St Helen's Lane,Solar Photovoltaics,5,Operational
+4413,Avonmouth,Solar Photovoltaics,4.2,Operational
+4414,Newport (Began Road),Solar Photovoltaics,4.9,Operational
+4423,Land to the south of Hill Farm ,Solar Photovoltaics,6.8,Operational
+4426,Woodington Solar Farm,Solar Photovoltaics,46,Under Construction
+4430,Mill Farm ,Solar Photovoltaics,5,Operational
+4433,Southern Counties Shooting Ground Phase 2 ,Solar Photovoltaics,5,Operational
+4450,Parkhill Solar Farm,Solar Photovoltaics,5,Operational
+4452,Dura Park Bynea Industrial Site,Solar Photovoltaics,1.4,Operational
+4457,Brook Hall Farm ,Solar Photovoltaics,4.7,Operational
+4459,Land off Moss Side Lane ,Solar Photovoltaics,5,Operational
+4469,Jemmys Carr,Solar Photovoltaics,5,Under Construction
+4473,Barvills Solar Farm ,Solar Photovoltaics,5,Operational
+4476,Cairnmore Solar Park (extension),Solar Photovoltaics,1.2,Operational
+4477,London Southend Airport ,Solar Photovoltaics,2.5,Operational
+4478,Eas a Ghaill,Small Hydro,1.5,Operational
+4487,Glen Noe River,Small Hydro,2,Under Construction
+4490,River Pattack ,Small Hydro,2,Operational
+4500,Thameside DC,Solar Photovoltaics,1,Operational
+4509,Limekiln Wind Farm ,Wind Onshore,79.8,Appeal Granted
+4510,"Parc Stormy, Stormy Down",Wind Onshore,2.5,Under Construction
+4511,Kinmel 2 CIC,Solar Photovoltaics,5,Operational
+4514,Moss Thorn Farm,Solar Photovoltaics,5.8,Operational
+4520,Bodtegir,Wind Onshore,1.5,Operational
+4522,Caergarw Farm,Solar Photovoltaics,3.8,Operational
+4525,Rolls Royce Filton Campus Building 184,Solar Photovoltaics,1.4,Operational
+4526,Rolls Royce Filton Campus Building 185,Solar Photovoltaics,1.8,Operational
+4532,ParkerSteel Shoreham Plant,Solar Photovoltaics,1.8,Operational
+4536,Bourne Farm,Solar Photovoltaics,2.4,Operational
+4537,London’s Queen Elizabeth II reservoir,Solar Photovoltaics,6.3,Operational
+4540,Barnfield Solar Park,Solar Photovoltaics,2.5,Operational
+4541,Porth Wen,Solar Photovoltaics,49.9,Under Construction
+4544,West of Rhiwfelin Fach Farm,Wind Onshore,1.5,Operational
+4558,Marshill Farm,Wind Onshore,1.5,Operational
+4560,Popehill Farm,Solar Photovoltaics,5,Operational
+4563,Waltham Point Distribution Centre,Solar Photovoltaics,1.8,Operational
+4567,Checkley Wood Farm,Wind Onshore,4.1,Operational
+4569,Knottingley B,Solar Photovoltaics,2.4,Operational
+4572,Western International Market,Solar Photovoltaics,1.7,Operational
+4573,Land East of Horton Road ,Solar Photovoltaics,4.9,Operational
+4577,Pines Burn Wind Farm,Wind Onshore,33,Appeal Granted
+4584,Salford Road,Solar Photovoltaics,1.6,Operational
+4585,Grove Solar Park (Phase 2),Solar Photovoltaics,11,Operational
+4594,Williams Farm,Solar Photovoltaics,5,Operational
+4595,Woodlands Wind Farm,Wind Onshore,2.6,Operational
+4596,Kirton Solar PV Farm,Solar Photovoltaics,3.2,Operational
+4602,Bury Green Farm Solar,Solar Photovoltaics,5,Operational
+4603,Misson Solar Farm,Solar Photovoltaics,5,Operational
+4608,Lancaster Wastewater Treatment Works,Solar Photovoltaics,1.2,Operational
+4615,Whitman Laboratories,Solar Photovoltaics,1,Operational
+4618,Binsted Farm,Solar Photovoltaics,5,Operational
+4625,Howpark Wind Farm,Wind Onshore,16,Under Construction
+4635,Oakfield Farm,Solar Photovoltaics,5,Operational
+4636,Oakfield Farm - extension,Solar Photovoltaics,1.7,Operational
+4640,Former Westhampnett Landfill,Solar Photovoltaics,7.5,Operational
+4641,Bentley Motors,Solar Photovoltaics,2.9,Operational
+4658,Bumpers Farm Phase 2,Solar Photovoltaics,12,Appeal Granted
+4663,Accolade Wines,Wind Onshore,2.5,Operational
+4669,DPD Distribution Centre,Solar Photovoltaics,1,Operational
+4670,Craigannet Farm Wind Turbine,Wind Onshore,1.5,Operational
+4671,Bywaters’ Materials Recovery Facility Solar Array,Solar Photovoltaics,1,Operational
+4672,High Meadow Farm,Solar Photovoltaics,4,Operational
+4675,Burnfoot East Wind Farm (further extension),Wind Onshore,10.8,Operational
+4676,Longhill Burn Wind Farm,Wind Onshore,45.6,Under Construction
+4677,Deep Moor Landfill Site ,Solar Photovoltaics,2,Operational
+4678,Testwood Water Supply Works,Solar Photovoltaics,1.9,Operational
+4690,Priestgill Wind Farm,Wind Onshore,46.2,Appeal Granted
+4691,Ystradffin Hydropower Project,Small Hydro,1.8,Under Construction
+4694,Rosedew Farm,Solar Photovoltaics,5,Operational
+4696,Clashindarroch 2 ,Wind Onshore,77,Appeal Granted
+4698,Dengemarsh Road,Solar Photovoltaics,1,Operational
+4700,Former Nant-y-Gwyddon Landfill Site,Wind Onshore,1.5,Under Construction
+4703,Ferneylea Farm,Wind Onshore,1.5,Operational
+4708,Haigh Hall Solar Farm ,Solar Photovoltaics,5,Operational
+4709,Next Distribution Centre Doncaster,Solar Photovoltaics,2.5,Operational
+4711,Pauls Hill 2,Wind Onshore,28,Appeal Granted
+4713,Llanwern Solar Farm & Battery Storage,Solar Photovoltaics,75,Operational
+4717,Graig Fatha Farm,Wind Onshore,2.5,Operational
+4725,Glenshimmeroch Wind Farm,Wind Onshore,36,Appeal Granted
+4729,Branston Solar Park (extension),Solar Photovoltaics,40,Under Construction
+4731,Sytchwythy Fields,Solar Photovoltaics,1.4,Operational
+4736,Clifton Marsh Wastewater Treatment Works,Solar Photovoltaics,1.3,Operational
+4739,Ling Hall,Solar Photovoltaics,7,Operational
+4740,Sherburn,Solar Photovoltaics,5,Operational
+4741,Aldi - Cardiff,Solar Photovoltaics,1.5,Operational
+4747,Oak Grove Farm,Solar Photovoltaics,5.7,Operational
+4750,Cleve Hill Solar Project,Solar Photovoltaics,373,Under Construction
+4754,"Longlands Farm, Rush Wall Lane",Wind Onshore,3.5,Operational
+4757,Lathom (Pilkington Technical Centre),Solar Photovoltaics,2.5,Operational
+4762,Stormy Down Solar Farm,Solar Photovoltaics,3.8,Operational
+4764,Clifton Marsh Wastewater Treatment Works,Solar Photovoltaics,3.2,Operational
+4765,White Cross Lane,Solar Photovoltaics,25,Under Construction
+4766,Huntington Water Treatment Works,Solar Photovoltaics,7.2,Operational
+4770,Allt Garaidh Ghualaich Hydro Scheme Powerhouse ,Small Hydro,1.1,Under Construction
+4775,Former St Michaels Golf Course,Solar Photovoltaics,1,Under Construction
+4778,Birkhall Estate,Small Hydro,2,Operational
+4789,Twentyshilling Hill Wind Farm ,Wind Onshore,37.8,Under Construction
+4790,Creacombe Solar Farm,Solar Photovoltaics,7.3,Operational
+4795,Lochaber,Large Hydro,65,Operational
+4796,Cranfield Airfield,Solar Photovoltaics,1,Operational
+4798,North Kyle Energy Project,Wind Onshore,205.8,Under Construction
+4806,Forss Wind Farm,Wind Onshore,2.6,Operational
+4812,"Barr River, Loch Teacuis",Small Hydro,1.7,Operational
+4818,Lamby Way Solar Farm,Solar Photovoltaics,8.9,Operational
+4821,Sedgeletch Sewage Treatment Works,Solar Photovoltaics,<Null>,Under Construction
+4824,Glen Etive Estate Phase I (Allt na Chaorainn),Small Hydro,1.4,Under Construction
+4826,Chamber 16 (Cold Store),Solar Photovoltaics,1.2,Operational
+4828,Glen Kinglass,Small Hydro,1,Operational
+4831,Terriers Farm,Solar Photovoltaics,44,Under Construction
+4832,Gorse Lane,Solar Photovoltaics,20,Under Construction
+4833,Sandy Knowe Wind Farm ,Wind Onshore,81.6,Operational
+4834,Broken Cross (Former Surface Mine),Wind Onshore,48,Under Construction
+4838,Saputo Dairy UK,Solar Photovoltaics,4.2,Operational
+4839,Swinford Wind Farm,Solar Photovoltaics,20,Under Construction
+4841,Tilbury LCY2,Solar Photovoltaics,4,Operational
+4844,Dunfermline EDI4,Solar Photovoltaics,1.9,Operational
+4850,Bilbo Solar Farm,Solar Photovoltaics,36.6,Under Construction
+4853,Duror 2 Hydro Scheme,Small Hydro,0.4,Under Construction
+4854,"Building F, Renishaw Factory",Solar Photovoltaics,0.2,Operational
+4856,Finmont Service Reservoir,Solar Photovoltaics,0.3,Operational
+4857,Killail Farm,Small Hydro,0.2,Operational
+4859,Lower Farm,Solar Photovoltaics,0.5,Under Construction
+4862,Renishaw PLC Factory,Solar Photovoltaics,0.8,Operational
+4866,Burneside Mill,Solar Photovoltaics,0.5,Operational
+4867,Leeways,Solar Photovoltaics,0.5,Operational
+4868,Field north of Water Treatment Works / Hoggs Drove,Solar Photovoltaics,1,Operational
+4870,Pretoria Road,Solar Photovoltaics,4.9,Operational
+4872,Bolton Hill WTW,Solar Photovoltaics,0.5,Operational
+4875,Combe Gill Hydro Station,Small Hydro,0.2,Under Construction
+4889,Moog Controls Factory,Solar Photovoltaics,0.38,Operational
+4891,"Lower Tregeen, Davidstow -  Wind Turbine",Wind Onshore,0.9,Under Construction
+4900,Viking Wind Farm ,Wind Onshore,443,Under Construction
+4902,Carn Nicholas Farm (Extension),Solar Photovoltaics,10,Operational
+5175,Unipres building,Solar Photovoltaics,4.9,Operational
+5180,Easter Bush,Solar Photovoltaics,3,Under Construction
+5183,Tesco Wombwell Lane,Solar Photovoltaics,0.2,Operational
+5186,Tesco Superstore Shripney Road,Solar Photovoltaics,0.2,Operational
+5189,Glaxosmithkline Shewalton Road,Solar Photovoltaics,19.9,Under Construction
+5192,Tesco Lottbridge Drove,Solar Photovoltaics,0.2,Operational
+5193,Standingstone Hill,Wind Onshore,2.5,Appeal Granted
+5194,Tesco Super-Store (Bridge Road),Solar Photovoltaics,0.4,Operational
+5198,The Hazeley Academy,Solar Photovoltaics,0.2,Operational
+5200,Tesco Extra Hazelmere,Solar Photovoltaics,0.4,Operational
+5201,Amazon Omega Business Park,Solar Photovoltaics,1.5,Operational
+5202,Iron Mountain Site,Solar Photovoltaics,0.3,Operational
+5204,Tesco Crab Tree Lane,Solar Photovoltaics,0.5,Operational
+5205,Building ONE,Solar Photovoltaics,1.2,Under Construction
+5208,The Grange,Solar Photovoltaics,49.9,Operational
+5210,Streetfield Farm,Solar Photovoltaics,18.3,Operational
+5211,Iron Mountain Building,Solar Photovoltaics,0.3,Operational
+5216,St Margarets Bay,Solar Photovoltaics,0.2,Operational
+5217,Lamp Hill Wimpole Estate,Solar Photovoltaics,0.4,Operational
+5220,Alness Academy,Solar Photovoltaics,0.5,Under Construction
+5222,Ainsdale Wastewater Treatment Works,Solar Photovoltaics,0.3,Operational
+5224,Lochaber High School (Resubmission),Solar Photovoltaics,0.3,Operational
+5229,Perth Wastewater Treatment Works,Solar Photovoltaics,0.4,Operational
+5230,TF and JH Braime Holdings Factory,Solar Photovoltaics,0.2,Operational
+5231,Computacenter Warehouse,Solar Photovoltaics,2,Under Construction
+5232,"Tesco Super-Store (Garratt Way, Gorton)",Solar Photovoltaics,0.7,Operational
+5235,Volmary Site,Solar Photovoltaics,0.2,Operational
+5240,Deuchries Windfarm (extension),Wind Onshore,2,Operational
+5244,Invergordon Academy,Solar Photovoltaics,0.2,Operational
+5246,The Low Carbon Energy Generation Project at Keele University,Wind Onshore,1.9,Operational
+5247,Craig Farm,Small Hydro,0.4,Under Construction
+5250,Allt Eilidh,Small Hydro,0.6,Under Construction
+5251,National Space Centre,Solar Photovoltaics,0.2,Operational
+5252,Tesco Queensway Place,Solar Photovoltaics,0.3,Operational
+5254,Allt an t-Sidhein Hydro Scheme,Small Hydro,0.5,Under Construction
+5255,Meadow Lane Park and Ride,Solar Photovoltaics,0.9,Under Construction
+5263,Aviva Headquarters,Solar Photovoltaics,1.8,Operational
+5271,Bracks Farm,Solar Photovoltaics,28,Operational
+5278,Flamingo House,Solar Photovoltaics,1,Operational
+5279,Kingmoor Park,Solar Photovoltaics,5,Operational
+5280,Shewalton Road,Wind Onshore,3,Under Construction
+5282,The Oxfordshire Golf Club,Solar Photovoltaics,0.3,Operational
+5285,Aurora Solar Farm,Solar Photovoltaics,32,Under Construction
+5287,Buckingham Tesco Superstore,Solar Photovoltaics,0.2,Operational
+5289,Henry Colbeck Office,Solar Photovoltaics,0.2,Operational
+5293,Fell Wind Farm,Wind Onshore,49,Appeal Granted
+5294,Flint Landfill Site Castle Park,Solar Photovoltaics,2,Operational
+5298,East Codford Solar Farm Extension Phase 3,Solar Photovoltaics,18,Operational
+5299,Keele University,Solar Photovoltaics,4.4,Operational
+5300,Tesco Superstore Bicester,Solar Photovoltaics,0.6,Under Construction
+5304,"Lower Strensham, Bourne Road (Extension)",Solar Photovoltaics,8,Operational
+5305,Hatherden Farm,Solar Photovoltaics,49.9,Under Construction
+5312,Hewitts Avenue Tesco,Solar Photovoltaics,0.5,Operational
+5328,Strathrory Wind Farm,Wind Onshore,36,Appeal Granted
+5330,Pall Europe Building,Solar Photovoltaics,0.58,Operational
+5332,North Angle Farm,Solar Photovoltaics,29.4,Under Construction
+5336,Ray Valley Solar Farm,Solar Photovoltaics,19,Under Construction
+5338,Cotmoor Lane,Solar Photovoltaics,49.9,Appeal Granted
+5339,A J Lowther and Son Premise,Solar Photovoltaics,1,Under Construction
+5346,Severn Road,Wind Onshore,4.2,Operational
+5347,Iron Mountain Howe Moss Drive,Solar Photovoltaics,0.3,Operational
+5349,Eden Campus,Solar Photovoltaics,1,Operational
+5352,Bowerhouse Farm (extension),Solar Photovoltaics,19.8,Under Construction
+5354,Queen Elizabeth The Queen Mothers Hospital,Solar Photovoltaics,0.4,Operational
+5355,William Harvey Hospital,Solar Photovoltaics,0.4,Operational
+5360,South Shore Holiday Village,Solar Photovoltaics,0.4,Operational
+5361,Tiln Farm Solar Farm,Solar Photovoltaics,49.9,Under Construction
+5362,Windy Rig Wind Farm ,Wind Onshore,43,Operational
+5377,Land near Ventonteague ,Wind Onshore,2.3,Operational
+5382,St Fergus Renewable Energy Park,Wind Onshore,3,Under Construction
+5383,St Fergus Renewable Energy Park,Solar Photovoltaics,5,Under Construction
+5385,Duke Of Gloucester Barracks,Solar Photovoltaics,1.4,Operational
+5388,Ely Road Waste Management Park,Solar Photovoltaics,1.1,Operational
+5389,"Wood End, Mursley Road",Solar Photovoltaics,36,Appeal Granted
+5403,Burwell Solar Farm,Solar Photovoltaics,49.9,Under Construction
+5410,Tesco Superstore Thetford Road,Solar Photovoltaics,0.2,Operational
+5412,Cornharrow Wind Farm ,Wind Onshore,38.4,Appeal Granted
+5431,Jaywick Water Recycling Centre,Solar Photovoltaics,0.9,Operational
+5445,Rock Barracks Solar Farm,Solar Photovoltaics,1.5,Under Construction
+5456,Elmsall Way Warehouse,Solar Photovoltaics,2.4,Operational
+5459,Kenyon Way,Solar Photovoltaics,1.9,Under Construction
+5464,Howden Farm,Solar Photovoltaics,0.2,Operational
+5474,Hutchesons Grammar School,Solar Photovoltaics,0.18,Operational
+5477,Claylands Road,Solar Photovoltaics,0.2,Operational
+5480,Pattemores Transport (Crewkern),Solar Photovoltaics,2.1,Under Construction
+5489,Two Post Lane,Solar Photovoltaics,12,Operational
+5490,ENWL Training Academy,Solar Photovoltaics,0.3,Operational
+5497,Lag Farm,Solar Photovoltaics,1,Operational
+5507,Normandy Barracks,Solar Photovoltaics,2.3,Under Construction
+5508,Harborough Road Store,Solar Photovoltaics,0.2,Operational
+5515,Crumps Yard Solar Farm,Solar Photovoltaics,1.6,Operational
+5516,Croome Airfield Solar Farm,Solar Photovoltaics,49.9,Under Construction
+5521,Margree Windfarm ,Wind Onshore,49.9,Appeal Granted
+5539,Brinsbury Campus Stane,Solar Photovoltaics,0.2,Operational
+5557,Perth Wastewater Treatment Works (Extension),Solar Photovoltaics,0.3,Operational
+5562,H M Prison Bure,Solar Photovoltaics,0.2,Operational
+5563,Clifton Farm,Solar Photovoltaics,35,Under Construction
+5572,City of Edinburgh Council Buildings,Solar Photovoltaics,0.2,Operational
+5580,Crick Road,Solar Photovoltaics,49.9,Under Construction
+5583,Fox Covert Solar Farm,Solar Photovoltaics,22,Operational
+5585,Woodington Solar Farm (Central),Solar Photovoltaics,<Null>,Under Construction
+5589,Ricoh UK Products,Solar Photovoltaics,1.2,Operational
+5592,Lower Fields Mushroom Farm,Solar Photovoltaics,0.3,Operational
+5593,Fairview Farm,Solar Photovoltaics,0.2,Operational
+5594,Brookhouse Mill,Solar Photovoltaics,0.3,Operational
+5617,Attleborough Road Solar Farm,Solar Photovoltaics,30,Under Construction
+5618,Three Maids Hill Solar Farm,Solar Photovoltaics,25,Operational
+5620,Elstow Landfill Site,Solar Photovoltaics,5.5,Under Construction
+5626,Tesco Extra Altrincham,Solar Photovoltaics,0.5,Under Construction
+5627,The National Cycling Centre Velodrome,Solar Photovoltaics,0.7,Operational
+5637,Lower Rumster wind turbine,Wind Onshore,0.2,Operational
+5639,Larks Green Solar Farm,Solar Photovoltaics,49.9,Operational
+5641,Low Farm Solar Farm,Solar Photovoltaics,49.9,Under Construction
+5645,Meall Buidhe Wind Farm,Wind Onshore,40,Appeal Granted
+5651,Swansea University Bay Campus,Solar Photovoltaics,0.2,Operational
+5653,Blenheim Net Zero Estate,Solar Photovoltaics,5,Under Construction
+5661,Bramley Frith Solar Farm,Solar Photovoltaics,49.9,Appeal Granted
+5665,Hamer Warren Solar Farm,Solar Photovoltaics,23,Under Construction
+5671,Litchardon Cross Solar Farm,Solar Photovoltaics,49.9,Operational
+5679,"Darlington Road, Skeeby",Solar Photovoltaics,49.5,Under Construction
+5680,"Land near Tacher, Latheron",Wind Onshore,4.1,Under Construction
+5683,South Stilling Tanks Solar Farm,Solar Photovoltaics,0.5,Operational
+5685,Bubney Farm,Solar Photovoltaics,40,Operational
+5694,Sanko Gosei Solar Panels,Solar Photovoltaics,0.5,Operational
+5699,Heming Point Roof Mounted Solar Panels,Solar Photovoltaics,0.2,Operational
+5702,Samaritans Spring Bank Solar Panels,Solar Photovoltaics,<Null>,Operational
+5705,Feldon Vale Solar Farm,Solar Photovoltaics,49.9,Appeal Granted
+5710,Old Lorry Farm Shop,Solar Photovoltaics,<Null>,Under Construction
+5715,Parkwood Road Rooftop Solar Array,Solar Photovoltaics,0.15,Operational
+5716,Blyth Sewage Treatment Works,Solar Photovoltaics,2.3,Operational
+5717,Stody Estate Solar Array,Solar Photovoltaics,0.49,Operational
+5718,Albert Road Rooftop Solar Panels,Solar Photovoltaics,0.18,Operational
+5719,Cupar Wastewater Treatment Works Solar Farm,Solar Photovoltaics,0.62,Operational
+5723,Asksham Community Village Solar Farm,Solar Photovoltaics,0.15,Under Construction
+5725,Kirby Road Solar Panels,Solar Photovoltaics,0.49,Under Construction
+5730,"British Geological, Keywork Solar Panels",Solar Photovoltaics,0.62,Under Construction
+5731,Four Elms Solar Array,Solar Photovoltaics,0.17,Operational
+5735,Bishampton Solar Farm,Solar Photovoltaics,30,Under Construction
+5737,Burton Bradstock Solar Panels,Solar Photovoltaics,<Null>,Under Construction
+5738,Stracathro Hospital Solar,Solar Photovoltaics,0.25,Operational
+5739,Lockfield Avenue Solar,Solar Photovoltaics,0.2,Under Construction
+5751,Sheraton Hall Solar Farm,Solar Photovoltaics,49.9,Appeal Granted
+5753,Siddington Solar Farm,Solar Photovoltaics,19.94,Under Construction
+5754,Manor Farm Solar Panels,Solar Photovoltaics,0.3,Under Construction
+5764,Littleyhey Prison Solar Farm,Solar Photovoltaics,0.5,Operational
+5803,Oriel High School,Solar Photovoltaics,0.19,Operational
+5805,Willow Farm,Solar Photovoltaics,1.15,Operational
+5806,"Fen Lane, Bulphan Solar Farm",Solar Photovoltaics,49.9,Under Construction
+5812,Strathaven Airfield,Solar Photovoltaics,<Null>,Operational
+5814,Raf Honington Solar Farm,Solar Photovoltaics,<Null>,Under Construction
+5819,Elmbank Drive Solar Panels,Solar Photovoltaics,<Null>,Operational
+5833,Nickle Farm,Solar Photovoltaics,0.35,Operational
+5836,"Gunnista, Bressay Solar panels",Solar Photovoltaics,<Null>,Operational
+5837,"London Road, Holmes Chapel Photovoltaic Panels",Solar Photovoltaics,0.96,Under Construction
+5842,"Churn Lane, Horsmonden Solar Panels",Solar Photovoltaics,0.5,Operational
+5848,Garbet Windfarm - Wind Farm & Storage facility,Wind Onshore,46.2,Appeal Granted
+5851,Thaxted - Solar farm,Solar Photovoltaics,40,Appeal Granted
+5855,Grange Of Berryhill - Solar Farm,Solar Photovoltaics,49.9,Appeal Granted
+5872,Fernbrook - Solar farm & Battery storage,Solar Photovoltaics,49.9,Appeal Granted
+5896,Avon Road Car Park - Solar Photovoltaic Carport System,Solar Photovoltaics,1.62,Operational
+5897,South Car Park - Solar photovoltaic carport system,Solar Photovoltaics,<Null>,Operational
+5907,Cranfield University - Solar Farm,Solar Photovoltaics,0.44,Operational
+5917,Limebar Lane - Energy Distribution Centre,Solar Photovoltaics,<Null>,Under Construction
+5923,Canon Barns Road - Solar Photovoltaic Arrays & Battery Storage,Solar Photovoltaics,49.9,Appeal Granted
+5936,The Kingswinford School - Solar panels,Solar Photovoltaics,<Null>,Operational
+5937,Plant Produce - Solar PV panels,Solar Photovoltaics,0.15,Operational
+5939,Winterton Landfill Site - Ground Mounted Solar PV Arrays,Solar Photovoltaics,5,Under Construction
+5940,Dorset Green Solar Farm,Solar Photovoltaics,5,Operational
+5952,Meadow Lane Solar Farm,Solar Photovoltaics,19.6,Under Construction
+5970,Burneside Mill Solar Array - Phase 3,Solar Photovoltaics,0.3,Operational
+5987,Offham Landfill Site - Solar PV Array,Solar Photovoltaics,10.2,Under Construction
+5988,Carr Lane - Solar Farm,Solar Photovoltaics,9,Appeal Granted
+6008,Littleton Solar Farm,Solar Photovoltaics,30,Under Construction
+6010,"Nailsea Rescue Centre,  Nailsea - Solar Panels",Solar Photovoltaics,<Null>,Operational
+6016,Fferm Penglais - Solar Farm,Solar Photovoltaics,2.5,Operational
+6024,"Dragonhall Farm, Padanaram - Solar Photovoltaic Array ",Solar Photovoltaics,5,Under Construction
+6048,Westland Leisure Complex,Solar Photovoltaics,0.22,Operational
+6067,Carland Cross - Solar Farm,Solar Photovoltaics,10,Under Construction
+6070,Outer Space Studios Solar Panels,Solar Photovoltaics,0.6,Operational
+6071,"Bumble Hole Lane, Dodford - Solar PV",Solar Photovoltaics,0.67,Operational
+6076,Vale Of Mowbray Limited - Solar Photovoltaic System,Solar Photovoltaics,1,Under Construction
+6081,"Eastfields Farm, Deppers Bridge - Solar Farm",Solar Photovoltaics,34.8,Under Construction
+6087,Cottingham - Solar Farm,Solar Photovoltaics,5,Operational
+6094,Lidl Foodstore - Solar Panels,Solar Photovoltaics,0.18,Operational
+6097,"Eckley Farms, Marden - Solar Energy Farm",Solar Photovoltaics,49.9,Appeal Granted
+6098,Continental Approach - Solar Panels,Solar Photovoltaics,0.2,Operational
+6102,Os Field 6800 Fence Dike Lane - Solar Farm,Solar Photovoltaics,49.9,Appeal Granted
+6113,Portsmouth International Port - Solar Panels,Solar Photovoltaics,1.2,Under Construction
+6118,Larport - Solar Farm,Solar Photovoltaics,45,Under Construction
+6121,Harvie Card Way - Solar panels,Solar Photovoltaics,1.97,Operational
+6129,Central Park - Solar photovaltics,Solar Photovoltaics,0.15,Operational
+6147,"Gunthorpe Road, Marsh - Solar Farm ",Solar Photovoltaics,49.9,Appeal Granted
+6153,Willow Road - Roof mounted solar panels,Solar Photovoltaics,0.35,Operational
+6165,Bower Park Academy - Solar Photovoltaic Panels,Solar Photovoltaics,0.26,Operational
+6171,South Farm Solar Park,Solar Photovoltaics,40,Operational
+6174,Jacksons Bakery - Solar Panels,Solar Photovoltaics,0.63,Under Construction
+6183,St Peters Hall,Solar Photovoltaics,1.7,Operational
+6199,Princess Yachts Limited - Solar PV system,Solar Photovoltaics,0.7,Under Construction
+6203,Daresbury Science Park - Solar Array,Solar Photovoltaics,0.56,Operational
+6221,Mount Vernon Hospital - Solar Panels,Solar Photovoltaics,<Null>,Operational
+6233,Banbeath Industrial Estate Solar Array,Solar Photovoltaics,4.19,Under Construction
+6248,"Wastewater Treatment Works, Fraserburgh",Solar Photovoltaics,1.03,Under Construction
+6252,Bowmans Harbour Solar Farm,Solar Photovoltaics,6.9,Under Construction
+6255,"SAS International, Unit 1 -  Solar PV Panels",Solar Photovoltaics,0.8,Under Construction
+6256,"Eastgate House Farm, Seamer - Solar Farm",Solar Photovoltaics,32,Under Construction
+6271,"Royal Northern College Of Music, Oxford Road - Solar Photovoltaic panels",Solar Photovoltaics,0.17,Under Construction
+6277,Chamber House,Solar Photovoltaics,3.99,Under Construction
+6306,Henwick Grove - Solar Panels,Solar Photovoltaics,<Null>,Operational
+6307,Holly Street - Solar PV Panels,Solar Photovoltaics,0.16,Operational
+6325,"Perrigo,Wrafton - Solar Photovoltaic System",Solar Photovoltaics,0.53,Operational
+6330,Advent Way - Solar Panels,Solar Photovoltaics,0.18,Operational
+6332,"Minster Abbey, Bedlam Court Lane - Solar PV panels",Solar Photovoltaics,33,Under Construction
+6364,Newcastle International Airport Phase 1 -Solar Farm,Solar Photovoltaics,3,Under Construction
+6372,Easlea Road - Solar Photovoltaic Panels,Solar Photovoltaics,0.62,Operational
+6392,Hawthorn Pit -Solar Farm,Solar Photovoltaics,49.9,Appeal Granted
+6394,Great Wheatley Road - Solar Farm,Solar Photovoltaics,30,Appeal Granted
+6409,Squirrel Lane - Solar Photovoltaic Farm,Solar Photovoltaics,12,Appeal Granted
+6421,IBL Cold Stores - Solar Photovoltaics Panels,Solar Photovoltaics,0.8,Operational
+6462,Kiln Fields Solar Farm,Solar Photovoltaics,17.87,Under Construction
+6467,Hurst Road - Walton Solar PV Farm,Solar Photovoltaics,0.55,Operational
+6492,Morrisons Witham - Solar Pv Panels,Solar Photovoltaics,0.19,Operational
+6494,Morrisons Store 148 Cheriton Road - Solar Array,Solar Photovoltaics,0.29,Operational
+6511,Beavor - Photovoltaic Solar Arrays,Solar Photovoltaics,18.9,Under Construction
+6534,Horsey Levels - Solar Farm,Solar Photovoltaics,24,Operational
+6535,Steeraway Farm - Solar Farm,Solar Photovoltaics,30,Appeal Granted
+6541,"Exeter Road, Braunton - Solar Panels",Solar Photovoltaics,0.75,Under Construction
+6547,Manners Avenue - Solar Panels,Solar Photovoltaics,0.62,Operational
+6587,Regent Street - Solar Photovoltaic Panels,Solar Photovoltaics,<Null>,Operational
+6588,"Chickerell Road, Chickerell - Solar Photovoltaics (PV) Equipment",Solar Photovoltaics,<Null>,Operational
+6589,Over Hill Wind Farm,Wind Onshore,36,Appeal Granted
+6604,Station Road - Solar Array,Solar Photovoltaics,0.17,Operational
+6610,N H Case Limited - Solar Panels,Solar Photovoltaics,0.36,Under Construction
+6645,Chubb Road - Solar Photovoltaic ,Solar Photovoltaics,0.15,Operational
+6648,Dragon Long Meadow  - Solar farm,Solar Photovoltaics,9.9,Operational
+6652,"Denton Hall Farm Road, Denton - Solar Photovoltaic System",Solar Photovoltaics,1.16,Operational
+6663,"Morrisons, Bradford Road, Idle - Solar PV Panels",Solar Photovoltaics,0.8,Operational
+6670,Lumley Water Treatment Works - Solar Panels,Solar Photovoltaics,1.9,Operational
+6676,Kirkleatham Street - Solar Panel Array,Solar Photovoltaics,0.17,Under Construction
+6703,The Oaks Golf Club - Solar Panels,Solar Photovoltaics,0.2,Planning permission Granted
+6707,Park Road -  Solar Farm,Solar Photovoltaics,22.5,Appeal Granted
+6720,Glasgow Airport Solar Farm,Solar Photovoltaics,19.9,Under Construction
+6723,"Maidstone Road, Horsmonden - Paddock Solar Farm",Solar Photovoltaics,49.9,Under Construction
+6758,Torbay Leisure Centre - Energy Project,Solar Photovoltaics,0.17,Under Construction
+6777,Altham Business Park - Solar Panels,Solar Photovoltaics,1.18,Operational
+6817,"Arnolds Way, Yatton - Solar Panels",Solar Photovoltaics,0.84,Under Construction
+6819,Twin Tumps Way - Solar Panels,Solar Photovoltaics,0.62,Operational
+6831,Arthur Street - Solar Panels,Solar Photovoltaics,0.19,Operational
+6833,Crays Hall Farm - Solar Arrays,Solar Photovoltaics,25.6,Appeal Granted
+6835,HMP Wayland - Solar Panels,Solar Photovoltaics,0.34,Operational
+6844,Royal Oak Way South - Solar Array,Solar Photovoltaics,1.66,Operational
+6852,"Barclays Bank Plc, Radbroke Solar Carport - Solar Panels",Solar Photovoltaics,2.5,Under Construction
+6880,Victoria Road - Solar Photovoltaic System,Solar Photovoltaics,0.7,Operational
+6954,B H K UK Davy Drive - Solar Panels,Solar Photovoltaics,1.34,Under Construction
+6979,"Pinnacle Storage Park, Dale Abbey - Solar PV Panels",Solar Photovoltaics,1,Under Construction
+7004,"Tudworth Field Road, Hatfield - Solar PV Panels",Solar Photovoltaics,0.27,Operational
+7013,The National Cycling Centre -  Solar Photovoltaic Panels,Solar Photovoltaics,0.92,Under Construction
+7016,"Tudworth Field Road, Hatfield - Solar Panels",Solar Photovoltaics,0.18,Under Construction
+7028,Faulds Park Road- Solar PV Panlels,Solar Photovoltaics,0.34,Under Construction
+7043,"Kirkcaldy W W T W, Nether Street- Solar Panels",Solar Photovoltaics,0.65,Operational
+7084,Kemberton - Solar Farm,Solar Photovoltaics,22,Appeal Granted
+7085,Sedgeford Hall Estate - Solar Panels & Battery Storage,Solar Photovoltaics,21,Appeal Granted
+7117,Mounteneys and Cherry Rock Wind Turbines,Wind Onshore,1,Operational
+7122,Kingsway - Solar Panels,Solar Photovoltaics,0.16,Operational
+7137,"Audi Stockport, Brinksway, Edgeley - Solar Panels",Solar Photovoltaics,0.27,Operational
+7139,Dolphin Square - Solar panels,Solar Photovoltaics,<Null>,Under Construction
+7151," Cinch Stadium, Franklin’s Gardens - Solar ",Solar Photovoltaics,<Null>,Operational
+7152,Geraint Thomas National Velodrome - Solar,Solar Photovoltaics,<Null>,Operational
+7154,Atherton Way - Solar Panels,Solar Photovoltaics,0.24,Operational
+7174,"Elmsall Way, South Elmsall - Solar Panels",Solar Photovoltaics,3,Under Construction
+7181,Ford Oaks Solar & Green Infrastructure Facility,Solar Photovoltaics,30,Appeal Granted
+7202,"Arkwright Road, Groundwell Industrial Estate - Solar Panels",Solar Photovoltaics,0.91,Under Construction
+7210,"SC Johnson, Denby - Solar Panels",Solar Photovoltaics,0.62,Under Construction
+7214,"London Road, Irchester - Solar Farm",Solar Photovoltaics,26,Operational
+7217,Newarke St Car Park - Solar Panels,Solar Photovoltaics,<Null>,Under Construction
+7228,Dorchesters Corn Exchange - Solar Panels & Biomass Boiler,Solar Photovoltaics,<Null>,Under Construction
+7256,East Haddon - Solar Photovoltaic System,Solar Photovoltaics,2,Under Construction
+7262,"Blanche Lane, South Mimms - Solar Panels",Solar Photovoltaics,0.61,Under Construction
+7268,"Bryngolwg Farm, Hirwaun - Solar farm",Solar Photovoltaics,8.94,Operational
+7270,"Desford Brick Works, Bagworth -  Solar Panels",Solar Photovoltaics,2.6,Operational
+7296,Longlooms Road East - Solar panels,Solar Photovoltaics,0.22,Operational
+7304,"Wooperton Station, Wooperton - Solar Farm",Solar Photovoltaics,5.56,Under Construction
+7341,"Plant 1, G-Tekt Europe Manufacturing Limited -Roof Mounted Solar Panels",Solar Photovoltaics,1,Under Construction
+7378,"Arbikie, Inverkeilor - Green Hydrogen Project & Wind Turbine",Wind Onshore,1,Under Construction
+7379,"Ham Close - 452 Houses, Flats & Leisure Centre",Solar Photovoltaics,0.43,Under Construction
+7406,"Concorde Way, Segensworth - Solar Panels",Solar Photovoltaics,1.04,Under Construction
+7407,Paytherden Solar Farm (Peradon),Solar Photovoltaics,49,Under Construction
+7440,Deyes Academy Redevelopment,Solar Photovoltaics,0.63,Under Construction
+7477,"Harris Academy, Perth Road - Extension/Roof Solar Photovoltaic Array",Solar Photovoltaics,<Null>,Under Construction
+7497,"The Highway - 114 Flats, Office Accomodation & Self Storage Facility",Solar Photovoltaics,0.18,Appeal Granted
+7533,"Apac Packaging, Loughborough Road - Solar Panels",Solar Photovoltaics,0.9,Under Construction
+7587,"Midland Lead, Kiln Way - Solar Photovoltaic Panels",Solar Photovoltaics,0.24,Operational
+7590,"Regent Street, Sheepscar - Solar Panels",Solar Photovoltaics,0.22,Operational
+7594,"Metrocentre Green Car Park, St Michaels Way - Photovoltaic Equipment",Solar Photovoltaics,<Null>,Under Construction
+7730,"Tennant Avenue College, East Kilbride - Solar Panels",Solar Photovoltaics,0.94,Under Construction
+7756,"Bells Of Lazonby, Edenholme Bakery - Solar Panels",Solar Photovoltaics,0.63,Operational
+7768,"Tout Lane, Charlton Adam - Solar Photovoltaic System",Solar Photovoltaics,0.3,Operational
+7799,"Brickfields Business Park, Unit 35 - Solar Panels",Solar Photovoltaics,0.33,Under Construction
+7802,"Brickfields Business Park, Unit 16 - Solar Panels",Solar Photovoltaics,0.17,Under Construction
+7803,"Brickfields Business Park, Unit 24 - Solar panels",Solar Photovoltaics,0.16,Under Construction
+7804,"Brickfields Business Park, Unit 17 - Solar panels",Solar Photovoltaics,0.62,Under Construction
+7832,"Cranswick Country Foods, Seafox Court - Solar Panels",Solar Photovoltaics,0.65,Under Construction
+7842,"West Suffolk College, Out Risbygate Street -  Solar Panels",Solar Photovoltaics,0.55,Under Construction
+7961,"Donaldsons Nursery, Marsh Farm - Solar Panels",Solar Photovoltaics,0.19,Under Construction
+7995,Meerdyke Solar Panels & Battery Storage,Solar Photovoltaics,49.9,Appeal Granted
+7998,Marsh Lane - Solar PV Panels,Solar Photovoltaics,0.89,Under Construction
+8002,Eastbourne District General Hospital -  Energy Management,Solar Photovoltaics,1.1,Operational
+8022,"Total Food Services, North Road - Solar Panels",Solar Photovoltaics,0.22,Under Construction
+8046,"University Way, Cranfield - Solar Array",Solar Photovoltaics,0.88,Operational
+8129,"Sewage Treatment Works, Rosehall Road - Solar PV Panels",Solar Photovoltaics,0.23,Under Construction
+8133,"United Anodisers, Red Doles Lane - Solar Panels",Solar Photovoltaics,0.31,Under Construction
+8140,"County Hall, Loansdean - Solar Array ",Solar Photovoltaics,0.8,Operational
+8151,"Lilford Hall, Lilford - Solar Panels",Solar Photovoltaics,1,Under Construction
+8212,"Wilkin And Sons, Factory Hill - Solar Farm",Solar Photovoltaics,6.15,Operational
+8217,Nethermains - Solar Farm,Solar Photovoltaics,7.5,Under Construction
+8248,"Wee Minnemoer, Millport - Solar Farm & Battery Storage",Solar Photovoltaics,19,Appeal Granted
+8258,Chertsey Water Treatment Works ,Solar Photovoltaics,1.3,Operational
+8275,"M Sport, Dovenby Hall Estate - Solar Panels",Solar Photovoltaics,0.8,Operational
+8299,"Wieland Nemco, Pennard Close - Solar panels",Solar Photovoltaics,0.15,Operational
+8367,Shewalton Landfill Solar Farm,Solar Photovoltaics,5,Under Construction
+8368,Northfield House Solar Farm,Solar Photovoltaics,26,Operational
+8449,"Grimsby West, Birchin Way - Solar Array ",Solar Photovoltaics,1.12,Operational
+8458,"HSH Coldstores, Estate Road - Solar Panels",Solar Photovoltaics,1.08,Operational
+8488,"Souber Dairy, Bank Newton - Solar Panels",Solar Photovoltaics,0.19,Operational
+8513,Eastcroft Municipal Depot,Solar Photovoltaics,0.18,Operational
+8545,"Top Farm, Short Ferry Road - Solar PV Arrays",Solar Photovoltaics,0.86,Under Construction
+8648,Mobile Telephone Exchange (MTX) - Solar Panels,Solar Photovoltaics,<Null>,Operational
+8671,Hoods Close - Solar Panels,Solar Photovoltaics,1.7,Under Construction
+8794,"King Edwards School, North Road - Solar Panels",Solar Photovoltaics,0.22,Under Construction
+8818,Bristol Airport Solar Farm,Solar Photovoltaics,<Null>,Under Construction
+8826,New England Industrial Estate Development,Solar Photovoltaics,0.22,Under Construction
+8857,Turnpike Depot - Solar Panels,Solar Photovoltaics,0.48,Under Construction
+8889,Hamilton Waste Water Treatment Works - Hydro Scheme,Small Hydro,<Null>,Under Construction
+8924,Kerry Ingredients & Flavours - Solar Panels,Solar Photovoltaics,0.3,Under Construction
+8996,"Blair Castle Caravan Park, Blair Atholl - Solar Farm",Solar Photovoltaics,0.16,Operational
+9038,"Carrochan Road, Balloch - Solar Panels",Solar Photovoltaics,0.18,Under Construction
+9128,"Smart Systems Limited, Arnolds Way - Solar Panels",Solar Photovoltaics,2.93,Under Construction
+9148,"Excelsior Academy, Denton Road - Solar Panels",Solar Photovoltaics,0.53,Under Construction
+9182,"DNATA City East, Bedfont Road - Roof Mounted Solar PV Panels",Solar Photovoltaics,0.39,Appeal Granted
+9190,Blum Uk - Solar Panels,Solar Photovoltaics,<Null>,Operational
+9244,Aylett Nurseries - Solar Panels,Solar Photovoltaics,<Null>,Operational
+9319,LVF Packaging - Solar Panel,Solar Photovoltaics,0.3,Operational
+9333,Trafalgar House Police Station - Installation Of  Solar PV System,Solar Photovoltaics,<Null>,Under Construction
+9345,"Wellington Sports Centre, Corams Lane - Solar Panels",Solar Photovoltaics,0.17,Under Construction
+9358,"Elstree Film And TV Studios, Shenley Road - Solar Panels",Solar Photovoltaics,3,Operational
+9379,F Lloyd Penley - Solar Panels,Solar Photovoltaics,0.41,Operational
+9496,"Fairham Business Park, Foresters Avenue  - Roof Mounted Solar Panels",Solar Photovoltaics,0.36,Operational
+9502,Roskilly's - Solar Farm,Solar Photovoltaics,0.21,Operational
+9503,Lakeside Business Park ,Solar Photovoltaics,4.5,Under Construction
+9563,Slickly Wind Farm,Wind Onshore,49.9,Appeal Granted
+9760,"Biggin Hill Airport, Main Road - Solar PV Array",Solar Photovoltaics,12,Under Construction
+9831,"Farnborough International Exhibition Centre, Etps Road - Solar Panels",Solar Photovoltaics,1.15,Under Construction
+9937,Hare Brewery - Solar Panels,Solar Photovoltaics,0.25,Operational
+10069,Jones Food Company - Solar Farm,Solar Photovoltaics,0.71,Operational
+10118,Sutton Bridge Solar Farm,Solar Photovoltaics,49.9,Under Construction
